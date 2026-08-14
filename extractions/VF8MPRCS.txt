@@ -1,0 +1,7 @@
+model: BART-large
+
+evaluation task: top level column head (XSum and CNN/DailyMail)
+
+The second level of the column head contains the average rank values.
+
+Always combine two rows. These groups of two rows are separated by a line. The first contains the metric value and metric name, the second contains the ratio of trained parameters.

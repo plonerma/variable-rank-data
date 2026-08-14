@@ -1,0 +1,6 @@
+model: runwayml/stable-diffusion-v1-5
+
+LoRA, AdaLoRA, & DyLoRA: rank = 4
+
+evaluation task: IU X-RAY
+metric names: columns

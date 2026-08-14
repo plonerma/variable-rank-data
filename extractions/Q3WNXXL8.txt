@@ -1,0 +1,5 @@
+Column head top: evaluation task
+Column head bottom: metric name
+
+For QQP:
+Multiple metrics are given in this column (accuracy and f1-score). Extract two entries for each cell (one for each metric). Where only one number is given (created a single entry without a metric name (null).

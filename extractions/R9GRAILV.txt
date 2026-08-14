@@ -1,0 +1,3 @@
+Columns (second row): evaluation task
+metric name: accuracy
+model: LLaMA-7B

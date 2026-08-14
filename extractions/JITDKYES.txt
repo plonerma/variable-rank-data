@@ -1,0 +1,3 @@
+model for all entries: CLIP-ViT-B/16
+column head: evaluation task
+metric name not given (null)

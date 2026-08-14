@@ -1,0 +1,7 @@
+method "ours" = LoRPA (final average rank is 8)
+
+Column "rank size" contains the average rank.
+
+The used model is RoBERTa.
+
+Reported metrics are Matthew’s correlation for CoLA, Pearson Correlation for STS-B, and accuracy for other tasks; w and w/o MNLI indicates whether initialized with checkpoints of MNLI task or not.

@@ -1,0 +1,4 @@
+Ours = Drop-LoRA
+Model = Llama3.1-8B-Instruct
+
+r in the parentheses (in the method column) specifies the average rank.

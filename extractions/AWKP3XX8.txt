@@ -1,0 +1,17 @@
+Ignore the values in the parentheses (ci).
+
+model: DeBERTaV3-base
+
+evaluation task: columns
+
+finetuning task: columns
+
+
+Only for MNLI:
+Extract two values and append a suffix to evaluation_task (one entry each with evaluation_task: MNLI-m, MNLI-mm).
+
+Only for QQP:
+Multiple metrics are given per column (e.g. Acc./F1). Extract each metric name and metric value separately (one entry each).
+
+Only for CoLA:
+The metric here is "Matthews correlation coefficient".

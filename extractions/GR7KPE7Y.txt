@@ -1,0 +1,3 @@
+evaluation task: column head
+model: T5-base
+average rank: 64

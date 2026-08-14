@@ -1,0 +1,1 @@
+The three columns within each task (XSUM & CNN/DailyMail)  represent Rouge-1, Rouge-2, and Rouge-L metrics. Extract all three values (generating one record each).

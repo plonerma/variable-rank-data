@@ -1,0 +1,4 @@
+Model given in the grey row separators.
+Each column contains one method.
+evaluation task: TRACE
+metric name: overall performance (OP) or backward transfer (BWT) -- one per row

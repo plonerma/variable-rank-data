@@ -1,0 +1,2 @@
+model: Vicuna-7B
+evaluation task: column head

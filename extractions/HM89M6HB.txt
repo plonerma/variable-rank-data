@@ -1,0 +1,2 @@
+model: CLIP-VIP-B/16
+evaluation task: see column heads

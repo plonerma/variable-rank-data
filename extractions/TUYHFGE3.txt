@@ -1,0 +1,9 @@
+First row of column head: evaluation task
+Second row of the column head: metric name(s).
+
+For QQP:
+Multiple metrics are given in this column (accuracy and f1-score). Extract two entries for each cell (one for each metric). Where only one number is given (created a single entry without a metric name (null).
+
+model: DeBERTa-v3-base
+
+Remove the asterisk (*) from the method names.

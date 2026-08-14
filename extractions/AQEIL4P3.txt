@@ -1,0 +1,4 @@
+evaluation task: columns
+metric names not given (null)
+
+Method in the first three columns (GPT-3, PaLM, & ChatGPT) is "zero-shot" -- replace this in the output.

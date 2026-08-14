@@ -1,0 +1,6 @@
+Columns ReCord, WiC,BoolQ, & MultiRC are the evaluation tasks.
+
+trained parameters: in column "#T.P."
+trained parameter ratio" in column "#F.P."
+
+All metric values are between 1 and 100.

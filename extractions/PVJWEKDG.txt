@@ -1,0 +1,6 @@
+model: DeBERTaV3-base
+EM=exact match
+column head top: evaluation task
+column head bottom: metric name
+
+Use the following rule for #params conversion: 1e^-3M = 1K

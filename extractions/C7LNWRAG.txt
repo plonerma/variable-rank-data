@@ -1,0 +1,4 @@
+model: ViT-B/16
+number of trained parameters in second columns ("Param.")
+
+evaluation_task: columns (rotated by 90 degrees)

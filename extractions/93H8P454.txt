@@ -1,0 +1,5 @@
+model: Vit-base-patch16-224
+
+Remove the "[%}".
+
+Column "# Params" contains the trained_parameters, the other contains the accuracy. Create one entry per accuracy value, with the corresponding parameter count.

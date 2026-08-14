@@ -1,0 +1,7 @@
+evaluation task: columns
+
+Multiple metrics are given per column: Extract each metric name and metric value separately (one entry each).
+
+The three metrics are: Rouge-1, Rogue-2, and Rogue-L.
+
+#Params contains the trained parameter ratios.

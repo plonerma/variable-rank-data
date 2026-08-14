@@ -1,0 +1,5 @@
+model: LLAMA-3.1-70B
+column head: evaluation task
+and metric name (in parentheses; remove the %-symbol)
+
+2nd to last column (parameters) refers to the ratio of trained parameters.

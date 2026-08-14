@@ -1,0 +1,4 @@
+model: RoBERTa-base
+metric names: Rouge-1/Rouge-2/Rouge-L
+
+Extract all three scores from the cell (each corresponds to one of the metrics).

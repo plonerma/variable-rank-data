@@ -1,0 +1,7 @@
+base model at the top, ignore the "CSQA".
+
+Evaluation tasks are given in the second level of the column heads.
+
+Used metric is accuracy.
+
+Hella. is short for HellaSwag (replace in the result).

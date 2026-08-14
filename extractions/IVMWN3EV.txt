@@ -1,0 +1,2 @@
+trained parameter ratio: 30%
+evaluation task: see column head
