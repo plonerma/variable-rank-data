@@ -1,3 +1,4 @@
 average rank: 16
 evaluation task: columns
+model: bert-base-cased
 metric name not given (null)

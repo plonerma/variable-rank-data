@@ -1,4 +1,6 @@
-evaluation task: columns
+evaluation task: see columns
+model: BART-large
+
 
 Multiple metrics are given per column: Extract each metric name and metric value separately (one entry each).
 

@@ -1,4 +1,0 @@
-model: Vicuna-7B
-columns: evaluation task
-
-metric name not given (null).

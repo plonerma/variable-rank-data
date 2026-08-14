@@ -1,1 +1,4 @@
 Columns after the divider (i.e. after column IT) represent the evaluation tasks (MME, MMB, etc).
+
+method: first column
+model: second column ("LLM")

@@ -2,4 +2,4 @@ model: ViT-B16
 
 First level of the column heads refer to the evaluation task (ChestDR, ColonPath, Endo). The second level contains the metric name (mAP, AUC, ACC).
 
-If the method has a suffix "-rX" with X being an integer, then X specifies the rank.
+If the method has a suffix "-r" with a number, then the number specifies the rank.
