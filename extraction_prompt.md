@@ -4,15 +4,16 @@ Convert table cells into a JSON-formatted list of entries. Each metric cell usua
 
 Do not create a separate entry for the number of parameters (treat it as metadata for the other entries).
 
-## WORKFLOW
+## INPUT SPECIFICATION
 
-1. Extract all interpretable metric cells; create entries with available data and `null` for missing/unclear fields
-2. Identify and list all issues affecting data quality
-3. For each issue, note affected rows and fields
+You will receive a rendered table image. Extract entries based on the visual layout 
+of cells, headers, and any captions or metadata visible in or near the table.
 
-## TABLE STRUCTURE & FIELD LOCATIONS
+## WORKFLOW & TABLE STRUCTURE
 
-A table contains column headers, row headers (leftmost), data cells, and optional additional info (captions, notes, metadata).
+A table contains column headers, row headers (leftmost), data cells, and optional additional info (captions, notes, metadata). To extract entries: (1) extract all interpretable metric cells, creating entries with available data and `null` for missing/unclear fields; (2) populate fields from row headers, column headers, and additional info; (3) identify and list all data quality issues, noting affected rows and fields.
+
+Row headers are always the leftmost column of the table. Column headers are the topmost row. Treat merged cells in headers as applying to all subsumed rows/columns.
 
 Fields can reside in three locations:
 
@@ -26,47 +27,53 @@ Fields can reside in three locations:
 Each entry has the following fields:
 {field_descriptions}
 
-Some values are shared across all cells in a row, some are cell-specific.
 
-## FIELD ASSIGNMENT RULES
+## FIELD ASSIGNMENT & SPECIAL CASES
 
 | Scenario | Action |
 |----------|--------|
-| metric_name unavailable |	Assign null (always include field) |
-| Column missing & not in additional info | Omit field entirely (e.g., trained_parameters if no #Params column exists) |
-| Column exists but cell empty | Assign `null` |
+| metric_name unavailable |	Assign `null` (always include field) |
+| Column does not exist in the table or additional info | Completely omit field from entry (do not include it, not even as null) |
+| Column exists in table but this specific cell is empty or unclear | Include field with value `null` |
 | Cell unintelligible | Assign `null` + flag issue |
 | Valid data present | Extract as-is |
+| Confidence intervals (e.g., "0.85 ± 0.02") | Extract main value only; no flagging needed |
+| Ranges (e.g., "0.75-0.90") | Assign `null`; flag issue |
+| formatted numbers (e.g., "123.456k") | extract as integer |
+| averages (e.g., "average", "avg.") | do not create an entry |
+| multiple values (e.g., "0.82, 0.85") | create separate entries with same row-level metadata, different metric_value or evaluation_task; if meaning is not explicitly given, flag issue |
+| joining two columns (parameters & metrics) | do not add parameters as a separate entry; instead, add to trained_parameters field for the respective metric values |
 
 
-## HANDLING SPECIAL CASES
+## VISUAL AMBIGUITIES
 
-- **Confidence intervals** (e.g., "0.85 ± 0.02"): Extract main value only; no flagging needed
-- **Ranges** (e.g., "0.75-0.90"): Assign `null`; flag issue
-- **Formatted numbers** (e.g., "123.456K"): Extract as integer
-- **Averages**: Do not create an entry for averages (e.g., "Average", "Avg.", etc.)
-- **Multiple values** (e.g., "0.82, 0.85", "0.82/0.85"): Create separate entries with same row-level metadata, different `metric_value`; flag issue
-- **Joining two columns**: Usually, the number of parameters and metric value are spread over two columns: Either the number of parameters is given per row or per task/entry in each row. In any case do not add the number of parameters as a separate entry. Instead, add it to the trained_parameters field for the respective metric values.
+| Scenario | Action |
+|----------|--------|
+| Merged cells (rows or columns) | Extract value once per logical group; flag if unclear which entry owns the value |
+| Partial/obscured text | Assign `null` + flag issue with description of obscured content |
+| Formatted emphasis (bold, color, shading) | Extract value normally; do not interpret formatting as semantic |
+| Rotated or vertical text | Extract as-is; flag if text direction creates ambiguity |
+| Superscript/subscript markers (e.g., ^1, ₂) | Extract main value; ignore notation unless critical to meaning |
+
 
 ## NORMALIZING METRIC NAMES
 
-Use the following canonical versions of the metric names (replace the alternative version by the canonical name in the output):
+Use the following canonical versions of the metric names (replace alternative versions with the canonical name in the output):
 
-- accuracy: Often given as "acc", "Acc.", "ACC", "accuracy", etc.)
-- Matthews correlation coefficient: Often given as "Matthews", "MCC", etc.)
-- Pearson correlation coefficient: Often given as "pearson", "PMCC", "PCC")
+| canonical | variants |
+|-----------|----------|
+| accuracy | acc, acc., acc, accuracy |
+| matthews correlation coefficient | matthews, mcc |
+| pearson correlation coefficient | pearson, pmcc, pcc |
 
-If metric names are in column headers (e.g., 'SST-2 (Acc.)'), extract 'Acc.' and normalize to 'accuracy'.
+If metric names are in column headers (e.g., 'sst-2 (acc.)'), extract 'acc.' and normalize to 'accuracy'.
 
 ## ISSUES TO FLAG
 
-- Missing critical field
-- Unintelligible data
-- Range instead of single value
-- Unclear field location (conflicting values)
-- Alternatives without context
-- Inconsistent data type
-- Additional info missing
+Flag issues including: missing critical fields, unintelligible or range data, unclear field locations, alternatives without explicit context, inconsistent data types, and missing additional info.
+
+Issues should include table cell position (row index, column index) when possible.
+
 
 ## OUTPUT FORMAT
 
@@ -77,13 +84,12 @@ If metric names are in column headers (e.g., 'SST-2 (Acc.)'), extract 'Acc.' and
       "method": "string or null",
       "model": "string or null",
       "evaluation_task": "string or null",
-      "finetuning_task": "string or null",
-      "average_rank": "number or null",
-      "trained_parameters": "number or null",
-      "trained_parameter_ratio": "number or null",
       "metric_name": "string",
       "metric_value": "number or null",
-      "note": "string or null"
+      "trained_parameters": "number or null",
+      "average_rank": "number or null",
+      "trained_parameter_ratio": "number or null",
+      "finetuning_task": "string or null"
     }}
   ],
   "issues": [
@@ -93,21 +99,20 @@ If metric names are in column headers (e.g., 'SST-2 (Acc.)'), extract 'Acc.' and
 }}
 ```
 
----
+## EXAMPLE 1
 
-# EXAMPLE 1
+### Table
 
-**Table:**
 | Method | Model | SST-2 | CoNLL03 |
 |--------|-------|----------|----------|
 | Fine-tuning | BERT | 0.91 | 0.88 
 | Fine-tuning | BERT | - | 0.92 |
 | Prompt-tuning | GPT-3.5 | 0.87 ± 0.03 | 0.84 |
 
-## Additional Info
+### Additional Info
 Task: Named Entity Recognition (NER) and Part-of-Speech Tagging (POS)
 
-## Output
+### Output
 ```json
 {{
   "entries": [
@@ -118,8 +123,8 @@ Task: Named Entity Recognition (NER) and Part-of-Speech Tagging (POS)
     {{ "method": "Prompt-tuning", "model": "GPT-3.5", "evaluation_task": "CoNLL03", "metric_value": 0.84, "metric_name": null }}
   ],
   "issues": [
-    "Missing value in row 2, column SST-2; assigned null.",
-    "Average rank could not be derived.",
+    "Row 2, Column SST-2 (cell [2,3]): missing value; assigned null.",
+    "Rank column not present; average_rank omitted.",
     "Metric names not specified."
   ]
 }}
@@ -127,9 +132,10 @@ Task: Named Entity Recognition (NER) and Part-of-Speech Tagging (POS)
 
 ---
 
-# EXAMPLE 2
+## EXAMPLE 2
 
-**Table:**
+## Table
+
 | Method | Rank | #Params | SST-2 (Acc.) | CoNLL03 (F1) |
 |--------|------|---------|--------------|--------------|
 | LoRA | 16 | 0.21M | 0.91 | 0.88 
@@ -151,6 +157,30 @@ Model: llama-7b, fine-tuned on train split of evaluation_task
     {{ "method": "EVA", "model": "llama-7b", "evaluation_task": "CoNLL03", "finetuning_task": "CoNLL03", "metric_name": "F1-score", "metric_value": 0.99, "trained_parameters": 23000000, "average_rank": 16 }}
   ],
   "issues": []
+}}
+```
+
+---
+
+# EXAMPLE 3
+
+
+### Table
+| Method | Model | Results |        |
+|--------|-------|---------|--------|
+|        |       | SST-2   | CoNLL  |
+| LoRA   | BERT  | 0.91    | 0.88   |
+
+### Output
+```json
+{{
+  "entries": [
+    {{ "method": "LoRA", "model": "BERT", "evaluation_task": "SST-2", "metric_value": 0.91, ... }},
+    {{ "method": "LoRA", "model": "BERT", "evaluation_task": "CoNLL", "metric_value": 0.88, ... }}
+  ],
+  "issues": [
+    "Row 1: column headers (Results) are merged; subheaders in row 2 clarify tasks."
+  ]
 }}
 ```
 
