@@ -32,10 +32,10 @@ inputs = []
 input_ids = []
 target_paths = []
 
-for image_path in Path("./extracted_tables").glob("*.png"):
+for image_path in Path("./data/tables").glob("*.png"):
     input_id = image_path.stem
 
-    target_path = Path(f"results/{input_id}.json")
+    target_path = Path(f"./data/scores/{input_id}.json")
 
     if target_path.exists():
         print(f"Skipping {input_id} ({target_path} exists).")
