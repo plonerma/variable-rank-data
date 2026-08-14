@@ -1,0 +1,7 @@
+torch>=2.11.0
+transformers
+tiktoken
+sentencepiece
+pillow
+torchvision
+pydantic
