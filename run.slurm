@@ -54,7 +54,7 @@ export UV_TORCH_BACKEND=auto
 
 
 
-srun uv run scores-from-tables.py ${@:1}
+srun uv run scores_from_tables.py ${@:1}
 
 
 
