@@ -21,7 +21,7 @@ class ResultEntryModel(BaseModel):
 
 
 class ResultsModel(BaseModel):
-    entries: list[ResultEntryModel]
+    entries: list[ResultEntryModel] = Field(min_length=1)
     issues: list[str]
 
 

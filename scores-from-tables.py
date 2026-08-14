@@ -14,7 +14,7 @@ PROMPT_TEMPLATE = (
     "<|im_start|>assistant\n"
 )
 
-with open("extraction_prompt.md") as f:
+with open("score_extraction_prompt.md") as f:
     PROMPT = f.read().strip()
 
 
@@ -32,7 +32,7 @@ inputs = []
 input_ids = []
 target_paths = []
 
-for image_path in Path("./extractions").glob("*.png"):
+for image_path in Path("./extracted_tables").glob("*.png"):
     input_id = image_path.stem
 
     target_path = Path(f"results/{input_id}.json")
