@@ -1,0 +1,967 @@
+{
+  "entries": [
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 63.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 44.39,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 42.22,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 35.22,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 56.46,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 62.56,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 15.53,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 45.73,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 82.31,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 76.97,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.38,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 97.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 94.99,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.19,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 96.62,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 89.08,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 82.65,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 75.16,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.64,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.88,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 95.78,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 74.69,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 96.95,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 88.96,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 84.61,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 77.34,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.65,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.68,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 96.33,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 78.12,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 97.17,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 90.13,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 73.58,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 73.79,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 96.96,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 58.87,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 89.07,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 72.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 94.26,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 79.79,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 82.44,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 76.86,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.43,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 97.25,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 95.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 96.63,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 89.14,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 83.94,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 77.64,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.51,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.69,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 95.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.96,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 96.94,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 89.94,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 86.61,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 73.33,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.54,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.99,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 96.06,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 76.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 96.98,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 89.62,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 83.36,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 77.38,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.54,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.32,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 95.92,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.46,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 97.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 89.71,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 83.85,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 78.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.62,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.49,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 96.01,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 97.15,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 90.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 86.63,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 77.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.66,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 98.98,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 96.62,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.86,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 97.24,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 90.53,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Cars",
+      "metric_value": 86.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_value": 78.42,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 98.88,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "GTSRB",
+      "metric_value": 99.23,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "RESISC45",
+      "metric_value": 96.66,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SUN397",
+      "metric_value": 77.87,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_value": 97.15,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "CLIP-ViT-B/16",
+      "evaluation_task": "Average",
+      "metric_value": 90.66,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "metric_name not specified for any entry; assigned null for all."
+  ]
+}

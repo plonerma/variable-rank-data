@@ -1,0 +1,545 @@
+{
+  "entries": [
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.33,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.75,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 80.7,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.19,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.56,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 87.91,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA [18]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.3,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA [18]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.04,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA [18]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 69.35,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA [18]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.96,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA [18]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68.38,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA [18]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 82.08,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA [20]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.73,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA [20]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.19,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA [20]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 72.32,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA [20]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.12,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA [20]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 52.86,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA [20]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 79.64,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA [25]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.67,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA [25]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.04,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA [25]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 72.04,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA [25]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.04,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA [25]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68.08,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA [25]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 82.57,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ [14]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.81,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ [14]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.85,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ [14]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 77.53,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ [14]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.14,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ [14]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 74.43,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ [14]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 84.95,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA [27]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.75,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA [27]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.07,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA [27]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 74.27,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA [27]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.15,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA [27]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 76.31,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA [27]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 84.71,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-GA [40]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.7,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-GA [40]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.11,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-GA [40]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 80.57,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-GA [40]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.18,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-GA [40]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 85.29,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-GA [40]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 87.77,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA [48]",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.45,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA [48]",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.69,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA [48]",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 69.16,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA [48]",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.66,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA [48]",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68.14,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA [48]",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 81.62,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "GoRA",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.91,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "GoRA",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.68,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "GoRA",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 79.86,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "GoRA",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.27,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "GoRA",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 86.1,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "GoRA",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 87.96,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

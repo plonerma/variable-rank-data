@@ -1,0 +1,281 @@
+{
+  "entries": [
+    {
+      "method": "Full Fine-tuning",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 71.2,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "Full Fine-tuning",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 68.4,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "Full Fine-tuning",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "LoRA (r=8)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 67.5,
+      "trained_parameters": 70000000000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.0047,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "LoRA (r=8)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 64.1,
+      "trained_parameters": 70000000000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.0047,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "LoRA (r=8)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 77.8,
+      "trained_parameters": 70000000000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.0047,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 69.5,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.004,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 66.0,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.004,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 79.8,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.004,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 68.7,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0041,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 65.3,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0041,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 78.9,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0041,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "IncreLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 69.7,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0039,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "IncreLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 66.1,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0039,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "IncreLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 79.9,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0039,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "DoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 69.8,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0038,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "DoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 66.3,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0038,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "DoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 80.1,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0038,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 68.9,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0041,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 65.7,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0041,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 79.4,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0041,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "ARD-LoRA (uniform r=16)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 70.8,
+      "trained_parameters": 70000000000,
+      "average_rank": 16,
+      "trained_parameter_ratio": 0.0094,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "ARD-LoRA (uniform r=16)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 67.9,
+      "trained_parameters": 70000000000,
+      "average_rank": 16,
+      "trained_parameter_ratio": 0.0094,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "ARD-LoRA (uniform r=16)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 81.6,
+      "trained_parameters": 70000000000,
+      "average_rank": 16,
+      "trained_parameter_ratio": 0.0094,
+      "finetuning_task": "GSM8K"
+    },
+    {
+      "method": "ARD-LoRA (adaptive rank)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "MMLU",
+      "metric_name": "accuracy",
+      "metric_value": 70.7,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0032,
+      "finetuning_task": "MMLU"
+    },
+    {
+      "method": "ARD-LoRA (adaptive rank)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "BBH",
+      "metric_name": "accuracy",
+      "metric_value": 67.8,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0032,
+      "finetuning_task": "BBH"
+    },
+    {
+      "method": "ARD-LoRA (adaptive rank)",
+      "model": "LLAMA-3.1-70B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 81.6,
+      "trained_parameters": 70000000000,
+      "trained_parameter_ratio": 0.0032,
+      "finetuning_task": "GSM8K"
+    }
+  ],
+  "issues": []
+}

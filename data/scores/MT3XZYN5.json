@@ -1,0 +1,741 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 69.2,
+      "trained_parameters": 184300000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.9,
+      "trained_parameters": 184300000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 184300000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.8,
+      "trained_parameters": 184300000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.0,
+      "trained_parameters": 184300000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.6,
+      "trained_parameters": 184300000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.6,
+      "trained_parameters": 184300000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "Full FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 92.4,
+      "trained_parameters": 184300000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 67.0,
+      "trained_parameters": 1000000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.4,
+      "trained_parameters": 1000000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 87.8,
+      "trained_parameters": 1000000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 78.7,
+      "trained_parameters": 1000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.2,
+      "trained_parameters": 1000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 1000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.4,
+      "trained_parameters": 1000000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "BitFit",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 88.4,
+      "trained_parameters": 1000000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 62.6,
+      "trained_parameters": 1200000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 86.5,
+      "trained_parameters": 1200000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.9,
+      "trained_parameters": 1200000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 80.4,
+      "trained_parameters": 1200000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.8,
+      "trained_parameters": 1200000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.7,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 90.2,
+      "trained_parameters": 1200000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.8,
+      "trained_parameters": 1200000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 63.9,
+      "trained_parameters": 1200000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 86.8,
+      "trained_parameters": 1200000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.5,
+      "trained_parameters": 1200000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 80.5,
+      "trained_parameters": 1200000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.6,
+      "trained_parameters": 1200000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.8,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 90.7,
+      "trained_parameters": 1200000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.5,
+      "trained_parameters": 1200000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 68.8,
+      "trained_parameters": 1200000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.3,
+      "trained_parameters": 1200000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.5,
+      "trained_parameters": 1200000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "trained_parameters": 1200000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.3,
+      "trained_parameters": 1200000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.6,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.5,
+      "trained_parameters": 1200000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "AdapterFusion",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 92.0,
+      "trained_parameters": 1200000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 68.5,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.8,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.7,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.0,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.2,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 87.9,
+      "trained_parameters": 1300000,
+      "average_rank": 8,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 70.0,
+      "trained_parameters": 1900000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.0,
+      "trained_parameters": 1900000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.9,
+      "trained_parameters": 1900000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 88.1,
+      "trained_parameters": 1900000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "trained_parameters": 1900000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.6,
+      "trained_parameters": 1900000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.2,
+      "trained_parameters": 1900000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 87.2,
+      "trained_parameters": 1900000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 65.4,
+      "trained_parameters": 1300000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.8,
+      "trained_parameters": 1300000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.1,
+      "trained_parameters": 1300000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 81.7,
+      "trained_parameters": 1300000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.0,
+      "trained_parameters": 1300000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 91.3,
+      "trained_parameters": 1300000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.3,
+      "trained_parameters": 1300000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "DoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.3,
+      "trained_parameters": 1300000,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 59.5,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 86.8,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 91.4,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 77.6,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.0,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.4,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.1,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 89.9,
+      "trained_parameters": 900000,
+      "average_rank": 8,
+      "finetuning_task": "QQP"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 71.8,
+      "trained_parameters": 1900000,
+      "finetuning_task": "CoLA"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.0,
+      "trained_parameters": 1900000,
+      "finetuning_task": "MNLI"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.9,
+      "trained_parameters": 1900000,
+      "finetuning_task": "MRPC"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 88.8,
+      "trained_parameters": 1900000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.2,
+      "trained_parameters": 1900000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "trained_parameters": 1900000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "pearson correlation coefficient",
+      "metric_value": 91.5,
+      "trained_parameters": 1900000,
+      "finetuning_task": "STS-B"
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.3,
+      "trained_parameters": 1900000,
+      "finetuning_task": "QQP"
+    }
+  ],
+  "issues": []
+}

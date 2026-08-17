@@ -1,0 +1,2 @@
+metric_name: perplexity
+finetuning_task: WikiText-2

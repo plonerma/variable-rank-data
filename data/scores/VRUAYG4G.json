@@ -1,0 +1,73 @@
+{
+  "entries": [
+    {
+      "method": "AdaRANK (OURS)",
+      "model": "bert-base-cased",
+      "evaluation_task": "TREC",
+      "metric_name": null,
+      "metric_value": 97.27,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaRANK (OURS)",
+      "model": "bert-base-cased",
+      "evaluation_task": "YELP",
+      "metric_name": null,
+      "metric_value": 99.54,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaRANK (OURS)",
+      "model": "bert-base-cased",
+      "evaluation_task": "AG NEWS",
+      "metric_name": null,
+      "metric_value": 93.23,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "UNIFORM",
+      "model": "bert-base-cased",
+      "evaluation_task": "TREC",
+      "metric_name": null,
+      "metric_value": 96.88,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "UNIFORM",
+      "model": "bert-base-cased",
+      "evaluation_task": "YELP",
+      "metric_name": null,
+      "metric_value": 99.5,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "UNIFORM",
+      "model": "bert-base-cased",
+      "evaluation_task": "AG NEWS",
+      "metric_name": null,
+      "metric_value": 92.81,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified in column headers; assigned null for all entries."
+  ]
+}

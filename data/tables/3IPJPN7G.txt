@@ -1,0 +1,3 @@
+model: Llama-3-8B
+finetuning_task: MetaMathQA
+average rank: 64

@@ -1,0 +1,231 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 1",
+      "metric_value": 44.16,
+      "trained_parameters": 406000000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 2",
+      "metric_value": 21.28,
+      "trained_parameters": 406000000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE Lsum",
+      "metric_value": 40.9,
+      "trained_parameters": 406000000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "Ave.",
+      "metric_value": 35.45,
+      "trained_parameters": 406000000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Bitfit",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 1",
+      "metric_value": 44.08,
+      "trained_parameters": 1510000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Bitfit",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 2",
+      "metric_value": 21,
+      "trained_parameters": 1510000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Bitfit",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE Lsum",
+      "metric_value": 41.13,
+      "trained_parameters": 1510000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Bitfit",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "Ave.",
+      "metric_value": 35.4,
+      "trained_parameters": 1510000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 1",
+      "metric_value": 44.72,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 2",
+      "metric_value": 21.58,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE Lsum",
+      "metric_value": 41.84,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "Ave.",
+      "metric_value": 36.05,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 1",
+      "metric_value": 44.96,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 2",
+      "metric_value": 21.77,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE Lsum",
+      "metric_value": 42.09,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "Ave.",
+      "metric_value": 36.27,
+      "trained_parameters": 44700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLo",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 1",
+      "metric_value": 44.98,
+      "trained_parameters": 29400000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLo",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE 2",
+      "metric_value": 21.84,
+      "trained_parameters": 29400000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLo",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "ROUGE Lsum",
+      "metric_value": 42.09,
+      "trained_parameters": 29400000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLo",
+      "model": "BART-Large",
+      "evaluation_task": null,
+      "metric_name": "Ave.",
+      "metric_value": 36.3,
+      "trained_parameters": 29400000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified; all metric_name fields are null.",
+    "Evaluation_task not specified; all evaluation_task fields are null.",
+    "Finetuning_task not specified; all finetuning_task fields are null.",
+    "Average_rank not specified; all average_rank fields are null.",
+    "trained_parameter_ratio not specified; all trained_parameter_ratio fields are null."
+  ]
+}

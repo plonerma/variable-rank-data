@@ -1,0 +1,245 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 35.23,
+      "trained_parameters": 130000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0013
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 35.59,
+      "trained_parameters": 270000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.0027
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 35.96,
+      "trained_parameters": 530000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.0053
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.07,
+      "trained_parameters": 1050000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.0105
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.43,
+      "trained_parameters": 130000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0013
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.5,
+      "trained_parameters": 270000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.0027
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 25.16,
+      "trained_parameters": 530000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.0053
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 25.28,
+      "trained_parameters": 1050000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.0105
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 35.63,
+      "trained_parameters": 10000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0001
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.11,
+      "trained_parameters": 30000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0003
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.27,
+      "trained_parameters": 60000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0006
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.56,
+      "trained_parameters": 110000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0011
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.43,
+      "trained_parameters": 10000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0001
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.43,
+      "trained_parameters": 30000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0003
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.67,
+      "trained_parameters": 60000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0006
+    },
+    {
+      "method": "WLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.96,
+      "trained_parameters": 110000,
+      "average_rank": 20,
+      "trained_parameter_ratio": 0.0011
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 35.82,
+      "trained_parameters": 130000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0013
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.37,
+      "trained_parameters": 270000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0027
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.45,
+      "trained_parameters": 530000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0053
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "F1-score",
+      "metric_value": 36.74,
+      "trained_parameters": 1050000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0105
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.45,
+      "trained_parameters": 130000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0013
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 24.72,
+      "trained_parameters": 270000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0027
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 25.31,
+      "trained_parameters": 530000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0053
+    },
+    {
+      "method": "WLoRA+",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "F1-score",
+      "metric_value": 25.72,
+      "trained_parameters": 1050000,
+      "average_rank": 48,
+      "trained_parameter_ratio": 0.0105
+    }
+  ],
+  "issues": []
+}

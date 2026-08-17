@@ -1,2 +1,11 @@
 Remove the diamond symbol (in ChatGPT).
+
 column head: evaluation task
+
+For row ChatGPT:
+method: zero shot
+model: ChatGPT
+
+For all other rows:
+model: LLaMA3-8B
+Method in first column ("Scheme").

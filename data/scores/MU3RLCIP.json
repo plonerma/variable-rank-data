@@ -1,0 +1,1718 @@
+{
+  "entries": [
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "BoolQ",
+      "metric_value": 73.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "PIQA",
+      "metric_value": 85.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "SIQA",
+      "metric_value": 68.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 78.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 66.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "ARC-e",
+      "metric_value": 89.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "ARC-c",
+      "metric_value": 79.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "OBQA",
+      "metric_value": 74.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "ChatGPT",
+      "evaluation_task": "Avg.",
+      "metric_value": 77.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 63.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 79.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 76.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 67.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 75.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 74.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 57.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 72.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 70.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 66.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 78.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 74.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 72.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 75.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 75.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 59.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 72.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 71.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 67.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 76.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 78.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 69.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 78.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 73.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 57.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 75.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 72.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 68.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 79.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 77.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 70.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 78.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 81.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 62.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 77.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 74.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 68.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 80.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 77.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 78.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 78.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 77.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 61.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 74.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 74.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 68.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 81.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 77.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 82.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 78.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 80.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 62.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 80.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 76.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 71.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "PIQA",
+      "metric_value": 83.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "SIQA",
+      "metric_value": 79.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 88.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 82.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 82.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 67.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "OBQA",
+      "metric_value": 81.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series",
+      "model": "LLaMA13B",
+      "evaluation_task": "Avg.",
+      "metric_value": 79.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 72.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "PIQA",
+      "metric_value": 82.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "SIQA",
+      "metric_value": 81.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 87.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 84.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 82.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 69.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "OBQA",
+      "metric_value": 81.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Series + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "Avg.",
+      "metric_value": 80.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 72.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "PIQA",
+      "metric_value": 84.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "SIQA",
+      "metric_value": 79.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 92.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 84.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 84.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 71.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "OBQA",
+      "metric_value": 82.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "model": "LLaMA13B",
+      "evaluation_task": "Avg.",
+      "metric_value": 81.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 72.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "PIQA",
+      "metric_value": 86.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "SIQA",
+      "metric_value": 79.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 89.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 83.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 84.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 70.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "OBQA",
+      "metric_value": 82.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "Avg.",
+      "metric_value": 81.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 72.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "PIQA",
+      "metric_value": 83.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "SIQA",
+      "metric_value": 80.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 90.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 83.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 82.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 68.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "OBQA",
+      "metric_value": 82.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA13B",
+      "evaluation_task": "Avg.",
+      "metric_value": 80.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 71.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "PIQA",
+      "metric_value": 85.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "SIQA",
+      "metric_value": 81.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 89.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 84.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 84.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 70.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "OBQA",
+      "metric_value": 81.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA13B",
+      "evaluation_task": "Avg.",
+      "metric_value": 80.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 62.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "PIQA",
+      "metric_value": 68.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "SIQA",
+      "metric_value": 49.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 43.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 57.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 43.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 31.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "OBQA",
+      "metric_value": 46.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-J6B",
+      "evaluation_task": "Avg.",
+      "metric_value": 50.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 63.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "PIQA",
+      "metric_value": 63.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "SIQA",
+      "metric_value": 62.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 35.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 39.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 56.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 39.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "OBQA",
+      "metric_value": 51.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "GPT-J6B",
+      "evaluation_task": "Avg.",
+      "metric_value": 51.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 65.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 75.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 74.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 57.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 72.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 74.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 57.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 73.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "BLOOMz7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 68.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 67.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "PIQA",
+      "metric_value": 74.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "SIQA",
+      "metric_value": 74.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 51.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 68.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 77.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 58.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "OBQA",
+      "metric_value": 74.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "BLOOMz7B",
+      "evaluation_task": "Avg.",
+      "metric_value": 68.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 70.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "PIQA",
+      "metric_value": 85.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "SIQA",
+      "metric_value": 79.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 91.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 84.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 84.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 71.2,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "OBQA",
+      "metric_value": 79.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA38B",
+      "evaluation_task": "Avg.",
+      "metric_value": 80.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 72.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "PIQA",
+      "metric_value": 88.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "SIQA",
+      "metric_value": 80.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "HellaSwag",
+      "metric_value": 94.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "WinoGrande",
+      "metric_value": 84.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 89.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 79.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "OBQA",
+      "metric_value": 86.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA + IST",
+      "model": "LLaMA38B",
+      "evaluation_task": "Avg.",
+      "metric_value": 84.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified; all metric_name fields are null.",
+    "average_rank for LoRA and LoRA + IST: 32 (additional info) — this should be applied to all LoRA and LoRA + IST entries, but not all entries are explicitly marked with this value. The value is not present in the table for all rows, so it cannot be reliably assigned to all entries without additional context."
+  ]
+}

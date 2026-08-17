@@ -1,0 +1,1013 @@
+{
+  "entries": [
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.6,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 63.6,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.9,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.8,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 78.7,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 91.2,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 86.4,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 82.58,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 91.65,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 47.45,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 85.98,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 85.91,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 60.47,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 88.09,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 87.49,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-base",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 78.7,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 79.14,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 88.33,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 42.35,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 73.3,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 80.51,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 55.81,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 69.75,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 76.94,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-base",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 70.77,
+      "trained_parameters": 620000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.49,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.77,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 61.22,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.39,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.85,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 79.24,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.46,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 90.89,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 85.91,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.93,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.59,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 59.29,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.94,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.61,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 76.39,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 87.35,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 90.87,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 85,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.83,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.14,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 63.39,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.46,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.99,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 81.01,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 91.13,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 86.64,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.4,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 68,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 92.2,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 86.6,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.9,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 92.4,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "FT",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 88.9,
+      "trained_parameters": 356050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.1,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 68.3,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.9,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.8,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 92.1,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^P",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 88.4,
+      "trained_parameters": 4050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.5,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.2,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 66.5,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 92.1,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 91,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Adapt^H",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 87.8,
+      "trained_parameters": 7050000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 88.61,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 60.06,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 87.57,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.6,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 77.33,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.85,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 89.97,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prefix",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 84.71,
+      "trained_parameters": 3020000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 85.65,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.95,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 58.34,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 83.98,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 84.92,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 58.7,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 74.22,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 80.47,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "Prompt",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 77.53,
+      "trained_parameters": 1090000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.96,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.1,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 68.76,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 88.67,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.86,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 85.49,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 90.93,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 92.25,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 88.38,
+      "trained_parameters": 3410000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.84,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.29,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 67.61,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.12,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.82,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 86.28,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.89,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 92.27,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 88.64,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.67,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.63,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "CoLA Mathew",
+      "metric_name": "accuracy",
+      "metric_value": 68.37,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.95,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.98,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 87.8,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 91.81,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "STS-B",
+      "metric_name": "Pearson",
+      "metric_value": 92.43,
+      "trained_parameters": 3540000
+    },
+    {
+      "method": "SaLoRA",
+      "model": "RoBERTa-large",
+      "evaluation_task": "ALL",
+      "metric_name": "Avg",
+      "metric_value": 89.33,
+      "trained_parameters": 3540000
+    }
+  ],
+  "issues": []
+}

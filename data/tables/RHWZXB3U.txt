@@ -1,0 +1,6 @@
+First column (Method): method
+"ours" = "Light-Peft"
+
+Columns OpenBookQA, PIQA, ARC-E, ARC-C, SciQ, and WebQs are the evaluation tasks.
+
+model: OPT-1.3B

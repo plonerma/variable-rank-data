@@ -1,0 +1,139 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "LLaMA",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.12,
+      "trained_parameters": 6426300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 4.89,
+      "trained_parameters": 159900000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.06,
+      "trained_parameters": 159900000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "SoRA",
+      "model": "LLaMA",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.11,
+      "trained_parameters": 163700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMA",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.17,
+      "trained_parameters": 161200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "LLaMA",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.28,
+      "trained_parameters": 159900000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "Full FT",
+      "model": "LLaMA2",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.25,
+      "trained_parameters": 6426300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA2",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.05,
+      "trained_parameters": 159900000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA2",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.17,
+      "trained_parameters": 159900000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "SoRA",
+      "model": "LLaMA2",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.24,
+      "trained_parameters": 163700000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMA2",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.31,
+      "trained_parameters": 161200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "LLaMA2",
+      "evaluation_task": "MT-Bench",
+      "metric_name": null,
+      "metric_value": 5.42,
+      "trained_parameters": 159900000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Alpaca"
+    }
+  ],
+  "issues": [
+    "Metric names not specified in column headers; metric_name set to null for all entries."
+  ]
+}

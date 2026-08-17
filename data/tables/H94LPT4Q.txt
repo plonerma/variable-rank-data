@@ -1,0 +1,6 @@
+method: see first column
+trained parameters: see second column
+evaluation task: see column head (first row)
+metric name: see row head (in parentheses)
+
+model: for all entries "RoBERTa-base"

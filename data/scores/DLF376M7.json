@@ -1,0 +1,252 @@
+{
+  "entries": [
+    {
+      "method": "Fine-tuned",
+      "model": "Phi-2",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 62.8
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Phi-2",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 70.0
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Phi-2",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 57.1
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Phi-2",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 33.7
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Phi-2",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 6.4
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Phi-2",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 65.6
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Phi-2",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 68.4
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Phi-2",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 57.8
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Phi-2",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 32.5
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Phi-2",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 5.4
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 66.2
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 73.5
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 36.1
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 42.8
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 27.0
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 69.1
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 71.6
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 38.6
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 43.5
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama2-7B-Chat",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 27.4
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 73.1
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 80.4
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 73.1
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 38.2
+    },
+    {
+      "method": "Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 33.0
+    },
+    {
+      "method": "Partial Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 73.0
+    },
+    {
+      "method": "Partial Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 79.9
+    },
+    {
+      "method": "Partial Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 73.9
+    },
+    {
+      "method": "Partial Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 37.7
+    },
+    {
+      "method": "Partial Fine-tuned",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 33.3
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 74.1
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 80.3
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 74.3
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 38.1
+    },
+    {
+      "method": "Drop-LoRA",
+      "model": "Llama3.1-8B",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 35.8
+    }
+  ],
+  "issues": [
+    "Metric names for columns 'GSM8K' (EM), 'Samsum' (ROUGE, GPT-Score), and 'WMT23(En->Zh)' (BLEU) are not explicitly labeled in the table header, but inferred from context. The metric names are assumed to be 'EM' for GSM8K, 'ROUGE' for Samsum, and 'BLEU' for WMT23(En->Zh)."
+  ]
+}

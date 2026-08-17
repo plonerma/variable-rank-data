@@ -1,0 +1,2 @@
+mode: T5-base
+average rank: 8

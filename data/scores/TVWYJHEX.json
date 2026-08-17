@@ -1,0 +1,271 @@
+{
+  "entries": [
+    {
+      "method": "LinearLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "loss",
+      "metric_value": 0.00256,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LinearLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "rel (%)",
+      "metric_value": 0.77,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DiagLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "loss",
+      "metric_value": 0.00263,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DiagLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "rel (%)",
+      "metric_value": 0.79,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-G",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "loss",
+      "metric_value": 0.00139,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-G",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "rel (%)",
+      "metric_value": 0.41,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-R",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "loss",
+      "metric_value": 0.00162,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-R",
+      "model": "4-layer MLP",
+      "evaluation_task": "elliptic",
+      "metric_name": "rel (%)",
+      "metric_value": 0.48,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LinearLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "loss",
+      "metric_value": 0.0079,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LinearLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "rel (%)",
+      "metric_value": 3.85,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DiagLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "loss",
+      "metric_value": 0.0014,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DiagLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "rel (%)",
+      "metric_value": 0.6,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-G",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "loss",
+      "metric_value": 0.0031,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-G",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "rel (%)",
+      "metric_value": 0.55,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-R",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "loss",
+      "metric_value": 0.00183,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-R",
+      "model": "4-layer MLP",
+      "evaluation_task": "Allen-Cahn",
+      "metric_name": "rel (%)",
+      "metric_value": 1.01,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LinearLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "loss",
+      "metric_value": 0.0272,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LinearLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "rel (%)",
+      "metric_value": 6.61,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DiagLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "loss",
+      "metric_value": 0.000947,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DiagLoRA",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "rel (%)",
+      "metric_value": 2.07,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-G",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "loss",
+      "metric_value": 0.000476,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-G",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "rel (%)",
+      "metric_value": 1.11,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-R",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "loss",
+      "metric_value": 0.00111,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SubLoRA-R",
+      "model": "4-layer MLP",
+      "evaluation_task": "hyperbolic",
+      "metric_name": "rel (%)",
+      "metric_value": 2.15,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Column headers 'loss' and 'rel (%)' are repeated under each lambda column; metric_name is not specified for any entry, so it is omitted for all entries."
+  ]
+}

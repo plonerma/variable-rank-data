@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-Ray",
+      "metric_name": "CLIP Score",
+      "metric_value": 27.11,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "CXR",
+      "metric_name": "CLIP Score",
+      "metric_value": 24.34,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-Ray",
+      "metric_name": "CLIP Score",
+      "metric_value": 26.9,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "CXR",
+      "metric_name": "CLIP Score",
+      "metric_value": 22.47,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-Ray",
+      "metric_name": "CLIP Score",
+      "metric_value": 26.89,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "CXR",
+      "metric_name": "CLIP Score",
+      "metric_value": 22.93,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-Ray",
+      "metric_name": "CLIP Score",
+      "metric_value": 27.26,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "CXR",
+      "metric_name": "CLIP Score",
+      "metric_value": 26.38,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "average_rank is not provided for SeLoRA; assigned null.",
+    "trained_parameters column not present; omitted."
+  ]
+}

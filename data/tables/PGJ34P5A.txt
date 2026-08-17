@@ -1,0 +1,3 @@
+model: 7B variant for each of the models
+finetuning on Alpaca
+evaluation on MT-Bench

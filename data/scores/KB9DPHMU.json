@@ -1,0 +1,941 @@
+{
+  "entries": [
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 72.4,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 54.2,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 75.3,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 76.3,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 69.8,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 45.6,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 56.4,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 64.3,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 73.1,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 54.4,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 74.9,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 78.4,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 75.6,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 48.3,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 58.9,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 66.2,
+      "trained_parameters": 21100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 68.5,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 51.3,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.2,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 76.1,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 66.2,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 39.63,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 51.1,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 60.6,
+      "trained_parameters": 21000000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 75.1,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 54.7,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 77.8,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 79.2,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 77.3,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 43.6,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 55.8,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IAPT",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 66.2,
+      "trained_parameters": 20900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 72.3,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 54.1,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 76.4,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 77.2,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 76.6,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 41.8,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 51.7,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 64.3,
+      "trained_parameters": 25200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 73.1,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 54.6,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 77.2,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 78.1,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 75.4,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 43.2,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 53.4,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "(IA)³",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 65.0,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 75.2,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 57.6,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 79.6,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 79.5,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 79.7,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 45.9,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 61.8,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SSP",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 68.5,
+      "trained_parameters": 80600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 74.4,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 57.2,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 78.8,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.1,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.4,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 46.6,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 61.1,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 68.7,
+      "trained_parameters": 22500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 75.1,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 57.9,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 79.2,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.4,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 47.6,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 61.7,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 69.3,
+      "trained_parameters": 23200000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 76.9,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 59.6,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 80.3,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.7,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 47.9,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 61.3,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 70.0,
+      "trained_parameters": 23100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 77.5,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 60.2,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 81.4,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.7,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 48.3,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 62.3,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "MOELoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 70.5,
+      "trained_parameters": 29900000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 77.9,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 59.8,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 81.7,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.6,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.7,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 47.9,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 62.6,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 70.6,
+      "trained_parameters": 22600000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 79.3,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 61.1,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 82.8,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "AQuA",
+      "metric_name": "accuracy",
+      "metric_value": 49.7,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 64.4,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    },
+    {
+      "method": "ShapLoRA",
+      "model": "LLaMa-3 8B",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 72.1,
+      "trained_parameters": 22800000,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

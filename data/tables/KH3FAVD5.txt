@@ -1,0 +1,5 @@
+method "ours" = LoRPA (final average rank is 16)
+
+The used model is BART-base.
+
+R-* refers to ROUGE scores. Replace it in the output (keeping the suffix).

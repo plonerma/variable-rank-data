@@ -1,0 +1,293 @@
+{
+  "entries": [
+    {
+      "method": "Baseline",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 90.98,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Baseline",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 92.47,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Std. Tucker",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 87.15,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Std. Tucker",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 87.67,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Std. Tucker",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 61.54,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Std. Tucker",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 80.39,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-M [59]",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 89.04,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-M [59]",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 90.57,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-M [59]",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 85.29,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-M [59]",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 82.76,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-S [59]",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 90.53,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-S [59]",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 91.41,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-S [59]",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 60.0,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PSTR-S [59]",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 62.96,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BATUDE [36]",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 90.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BATUDE [36]",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 92.15,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BATUDE [36]",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 61.54,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BATUDE [36]",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 64.29,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 1)",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 90.99,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 1)",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 92.25,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 1)",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 30.66,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 1)",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 52.78,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 2)",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 92.16,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 2)",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Top-1 (%)",
+      "metric_value": 93.03,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 2)",
+      "model": "ResNet-20",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 5.79,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DPRP (variant 2)",
+      "model": "ResNet-32",
+      "evaluation_task": null,
+      "metric_name": "Compression (%)",
+      "metric_value": 24.96,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified in column headers; assumed to be Top-1 (%) and Compression (%) based on context."
+  ]
+}

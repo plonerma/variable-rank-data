@@ -1,0 +1,2 @@
+model: LLM-Assist 7B
+rank: 12

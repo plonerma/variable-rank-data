@@ -1,0 +1,725 @@
+{
+  "entries": [
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.33,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 80.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.19,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.56,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 87.91,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.04,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 69.35,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.96,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68.38,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA (Hu et al., 2022)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 82.08,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.57,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.62,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 77.28,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.59,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.11,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MELoRA (Ren et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 86.03,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.46,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 77.57,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.19,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.52,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoRA (Jiang et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 86.35,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.45,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.69,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 69.16,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.66,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68.14,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA (Zhang et al., 2023b)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 81.62,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.67,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.04,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 72.04,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.04,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68.08,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA (Liu et al., 2024a)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 82.57,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.73,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.19,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 72.32,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.12,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 52.86,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RSLoRA (Kalajdzievski, 2023)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 79.64,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.81,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.85,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 77.53,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.14,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 74.43,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA+ (Hayou et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 84.95,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.07,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 74.27,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.15,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 76.31,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "PiSSA (Meng et al., 2024)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 84.71,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.39,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.85,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 76.89,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.73,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 83.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "OLoRA (Büyükakyüz, 2024)",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 86.32,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.76,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.22,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 78.11,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.36,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.74,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 87.24,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "T5-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.82,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "T5-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "T5-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 77.85,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "T5-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.38,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "T5-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 85.09,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RaLoRA-Pro",
+      "model": "T5-base",
+      "evaluation_task": "Average",
+      "metric_value": 87.23,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

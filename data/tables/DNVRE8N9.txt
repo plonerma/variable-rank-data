@@ -1,0 +1,5 @@
+finetuning_task: MetaMathQA
+evaluation_task: GSM8K
+model: Qwen3-0.6B
+
+ r in the parentheses refers to the average rank.

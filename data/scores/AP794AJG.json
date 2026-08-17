@@ -1,0 +1,581 @@
+{
+  "entries": [
+    {
+      "method": "FedLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 50.81,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 34.76,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.74,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 56.34,
+      "average_rank": 6
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 51.97,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 19.09,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 85.93,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 59.29,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 52.19,
+      "average_rank": 54
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 20.04,
+      "average_rank": 54
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.33,
+      "average_rank": 54
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 59.47,
+      "average_rank": 54
+    },
+    {
+      "method": "SLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 48.83,
+      "average_rank": 6
+    },
+    {
+      "method": "SLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 31.74,
+      "average_rank": 6
+    },
+    {
+      "method": "SLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 85.68,
+      "average_rank": 6
+    },
+    {
+      "method": "SLoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 55.57,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 52.28,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 28.33,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.22,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 56.45,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 53.96,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 31.91,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.34,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 61.58,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 53.52,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 29.8,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.0,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 61.27,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 55.05,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 56.68,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.4,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 63.47,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 54.86,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 55.77,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.27,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "DistilBERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 63.56,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 46.27,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 34.91,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.47,
+      "average_rank": 6
+    },
+    {
+      "method": "FedLoRA",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 55.7,
+      "average_rank": 6
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 49.55,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 39.2,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.4,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-h",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 56.34,
+      "average_rank": 27
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 49.36,
+      "average_rank": 54
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 31.07,
+      "average_rank": 54
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 85.66,
+      "average_rank": 54
+    },
+    {
+      "method": "FedAdapter-p",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 57.68,
+      "average_rank": 54
+    },
+    {
+      "method": "SLoRA",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 45.6,
+      "average_rank": 6
+    },
+    {
+      "method": "SLoRA",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 28.42,
+      "average_rank": 6
+    },
+    {
+      "method": "SLoRA",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 84.36,
+      "average_rank": 6
+    },
+    {
+      "method": "SLoRA",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 54.2,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 50.58,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 31.69,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.97,
+      "average_rank": 6
+    },
+    {
+      "method": "FeDeRA",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 54.82,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 54.77,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 46.51,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.39,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA-dr",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 65.27,
+      "average_rank": 12
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 53.1,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 38.25,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 86.67,
+      "average_rank": 6
+    },
+    {
+      "method": "FFA-LoRA",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 62.6,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 55.61,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 48.67,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.4,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 65.48,
+      "average_rank": 12
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "20News",
+      "metric_name": "accuracy",
+      "metric_value": 55.08,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "Semeval",
+      "metric_name": "accuracy",
+      "metric_value": 48.35,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "AG News",
+      "metric_name": "accuracy",
+      "metric_value": 87.32,
+      "average_rank": 6
+    },
+    {
+      "method": "FedARA",
+      "model": "BERT",
+      "evaluation_task": "News Category",
+      "metric_name": "accuracy",
+      "metric_value": 65.71,
+      "average_rank": 6
+    }
+  ],
+  "issues": []
+}

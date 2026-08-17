@@ -1,0 +1,725 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 63.6,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.8,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 78.7,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 91.2,
+      "trained_parameters": 125000000
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.4,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 89.1,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 61.2,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 91.0,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 79.6,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.6,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.2,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 60.8,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 93.1,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 71.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 89.7,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 900000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.4,
+      "trained_parameters": 900000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 62.6,
+      "trained_parameters": 900000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 93.0,
+      "trained_parameters": 900000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 75.9,
+      "trained_parameters": 900000
+    },
+    {
+      "method": "Adpt^D",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.3,
+      "trained_parameters": 900000
+    },
+    {
+      "method": "Adpt^H",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 93.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^H",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^H",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 61.8,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^H",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^H",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 78.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^H",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.9,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^P",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 93.2,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^P",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.7,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^P",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 62.9,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^P",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^P",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 79.1,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "Adpt^P",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.4,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.7,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 63.4,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.4,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 78.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.4,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 87.3,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 59.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 93.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 77.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 91.1,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "LoRA-FA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 1800000
+    },
+    {
+      "method": "LoRA-FA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 90.0,
+      "trained_parameters": 1800000
+    },
+    {
+      "method": "LoRA-FA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 63.6,
+      "trained_parameters": 1800000
+    },
+    {
+      "method": "LoRA-FA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.5,
+      "trained_parameters": 1800000
+    },
+    {
+      "method": "LoRA-FA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 67.9,
+      "trained_parameters": 1800000
+    },
+    {
+      "method": "LoRA-FA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 89.6,
+      "trained_parameters": 1800000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.8,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 63.2,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.9,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 79.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 91.1,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 93.5,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 87.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 64.2,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 91.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 79.7,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 91.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "PISSA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "PISSA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 87.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "PISSA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 63.7,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "PISSA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.4,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "PISSA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 79.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "PISSA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.6,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.3,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 87.7,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 64.2,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.7,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 80.2,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.1,
+      "trained_parameters": 100000
+    },
+    {
+      "method": "RandLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 93.8,
+      "trained_parameters": 800000
+    },
+    {
+      "method": "RandLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 87.6,
+      "trained_parameters": 800000
+    },
+    {
+      "method": "RandLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 64.7,
+      "trained_parameters": 800000
+    },
+    {
+      "method": "RandLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.0,
+      "trained_parameters": 800000
+    },
+    {
+      "method": "RandLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 79.0,
+      "trained_parameters": 800000
+    },
+    {
+      "method": "RandLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 90.9,
+      "trained_parameters": 800000
+    },
+    {
+      "method": "La-LoRA(ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "Accuracy",
+      "metric_value": 94.8,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "La-LoRA(ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "Accuracy",
+      "metric_value": 88.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "La-LoRA(ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "Mathews",
+      "metric_value": 65.0,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "La-LoRA(ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "Accuracy",
+      "metric_value": 92.9,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "La-LoRA(ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_name": "Accuracy",
+      "metric_value": 80.4,
+      "trained_parameters": 300000
+    },
+    {
+      "method": "La-LoRA(ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "Person",
+      "metric_value": 91.0,
+      "trained_parameters": 300000
+    }
+  ],
+  "issues": []
+}

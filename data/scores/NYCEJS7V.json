@@ -1,0 +1,271 @@
+{
+  "entries": [
+    {
+      "method": "FT",
+      "model": "VIT-B",
+      "evaluation_task": "CIFAR100",
+      "metric_name": "accuracy",
+      "metric_value": 92.06,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-B",
+      "evaluation_task": "Food101",
+      "metric_name": "accuracy",
+      "metric_value": 91.12,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-B",
+      "evaluation_task": "Flowers102",
+      "metric_name": "accuracy",
+      "metric_value": 98.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-B",
+      "evaluation_task": "RESISC45",
+      "metric_name": "accuracy",
+      "metric_value": 96.08,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "CIFAR100",
+      "metric_name": "accuracy",
+      "metric_value": 92.09,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "Food101",
+      "metric_name": "accuracy",
+      "metric_value": 90.4,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "Flowers102",
+      "metric_name": "accuracy",
+      "metric_value": 98.92,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "RESISC45",
+      "metric_name": "accuracy",
+      "metric_value": 95.67,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "CIFAR100",
+      "metric_name": "accuracy",
+      "metric_value": 92.65,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "Food101",
+      "metric_name": "accuracy",
+      "metric_value": 90.51,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "Flowers102",
+      "metric_name": "accuracy",
+      "metric_value": 99.41,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-B",
+      "evaluation_task": "RESISC45",
+      "metric_name": "accuracy",
+      "metric_value": 96.72,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0043,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-L",
+      "evaluation_task": "CIFAR100",
+      "metric_name": "accuracy",
+      "metric_value": 93.29,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-L",
+      "evaluation_task": "Food101",
+      "metric_name": "accuracy",
+      "metric_value": 87.13,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-L",
+      "evaluation_task": "Flowers102",
+      "metric_name": "accuracy",
+      "metric_value": 98.9,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "VIT-L",
+      "evaluation_task": "RESISC45",
+      "metric_name": "accuracy",
+      "metric_value": 95.7,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "CIFAR100",
+      "metric_name": "accuracy",
+      "metric_value": 92.75,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "Food101",
+      "metric_name": "accuracy",
+      "metric_value": 87.1,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "Flowers102",
+      "metric_name": "accuracy",
+      "metric_value": 98.92,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "RESISC45",
+      "metric_name": "accuracy",
+      "metric_value": 94.52,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "CIFAR100",
+      "metric_name": "accuracy",
+      "metric_value": 92.97,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "Food101",
+      "metric_name": "accuracy",
+      "metric_value": 87.21,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "Flowers102",
+      "metric_name": "accuracy",
+      "metric_value": 99.12,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "VIT-L",
+      "evaluation_task": "RESISC45",
+      "metric_name": "accuracy",
+      "metric_value": 96.23,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 0.0029,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Column header '# Parmas' is misspelled (should be '# Parameters'); treated as metadata for metric entries."
+  ]
+}

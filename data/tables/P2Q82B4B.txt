@@ -1,0 +1,5 @@
+evaluation task: columns
+
+Two metrics are used: EM and F1 (separated by a forward slash)
+
+If multiple metrics are given per column, extract each metric name and metric value separately (one entry each).

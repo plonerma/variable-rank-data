@@ -1,2 +1,9 @@
 model: CLIP-VIP-B/16
 evaluation task: see column heads
+
+
+Method zero shot: Trained parameters and trained parameter ratio is 0.
+
+Method fuil: trained parameter ratio is 1.
+
+For all other methods, the average rank is 8.

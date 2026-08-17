@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "method": "AdaLoRA",
+      "model": "LlaMA-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LlaMA-2 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 80.8,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LlaMA-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 86.4,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LlaMA-2 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 81.7,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen1.5 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 85.7,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen1.5 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 81.5,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "Qwen1.5 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.1,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "Qwen1.5 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 82.6,
+      "average_rank": 12
+    }
+  ],
+  "issues": []
+}

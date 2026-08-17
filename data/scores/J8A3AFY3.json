@@ -1,0 +1,119 @@
+{
+  "entries": [
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "BoolQ",
+      "metric_value": 61.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "PIQA",
+      "metric_value": 76.31,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "HellaS",
+      "metric_value": 67.82,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "WinoG",
+      "metric_value": 62.57,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "ARC-e",
+      "metric_value": 64.02,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "ARC-c",
+      "metric_value": 36.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "evaluation_task": "OBQA",
+      "metric_value": 40.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "BoolQ",
+      "metric_value": 63.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "PIQA",
+      "metric_value": 76.82,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "HellaS",
+      "metric_value": 68.68,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "WinoG",
+      "metric_value": 63.38,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "ARC-e",
+      "metric_value": 63.76,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "ARC-c",
+      "metric_value": 37.11,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "OBQA",
+      "metric_value": 40.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified in column headers; omitted from entries."
+  ]
+}

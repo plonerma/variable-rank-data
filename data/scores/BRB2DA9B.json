@@ -1,0 +1,173 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 40.61,
+      "trained_parameters": 124650000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 17.76,
+      "trained_parameters": 124650000
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 32.91,
+      "trained_parameters": 124650000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 38.77,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 15.63,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 30.66,
+      "trained_parameters": 1330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 39.14,
+      "trained_parameters": 1270000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 16.23,
+      "trained_parameters": 1270000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 31.34,
+      "trained_parameters": 1270000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 39.67,
+      "trained_parameters": 1310000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 16.73,
+      "trained_parameters": 1310000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 31.78,
+      "trained_parameters": 1310000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 37.17,
+      "trained_parameters": 330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 14.57,
+      "trained_parameters": 330000
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 29.72,
+      "trained_parameters": 330000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 38.32,
+      "trained_parameters": 320000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 15.69,
+      "trained_parameters": 320000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 30.74,
+      "trained_parameters": 320000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-1",
+      "metric_value": 38.94,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-2",
+      "metric_value": 16.22,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "Xsum",
+      "metric_name": "Rouge-L",
+      "metric_value": 31.36,
+      "trained_parameters": 340000
+    }
+  ],
+  "issues": []
+}

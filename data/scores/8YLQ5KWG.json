@@ -1,0 +1,512 @@
+{
+  "entries": [
+    {
+      "method": "HAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 54.71
+    },
+    {
+      "method": "HAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 49.11
+    },
+    {
+      "method": "HAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 32.42
+    },
+    {
+      "method": "HAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 19.39
+    },
+    {
+      "method": "HAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 43.95
+    },
+    {
+      "method": "HAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 22.51
+    },
+    {
+      "method": "PAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 54.83
+    },
+    {
+      "method": "PAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 49.15
+    },
+    {
+      "method": "PAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 32.24
+    },
+    {
+      "method": "PAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 19.42
+    },
+    {
+      "method": "PAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 44.03
+    },
+    {
+      "method": "PAdapter",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 22.54
+    },
+    {
+      "method": "LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 55.03
+    },
+    {
+      "method": "LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 48.82
+    },
+    {
+      "method": "LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 32.42
+    },
+    {
+      "method": "LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 19.72
+    },
+    {
+      "method": "LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 43.83
+    },
+    {
+      "method": "LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 22.53
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 55.66
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 49.13
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 32.75
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 19.87
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 44.24
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 22.67
+    },
+    {
+      "method": "DyLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 55.59
+    },
+    {
+      "method": "DyLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 49.21
+    },
+    {
+      "method": "DyLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 32.82
+    },
+    {
+      "method": "DyLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 19.86
+    },
+    {
+      "method": "DyLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 44.18
+    },
+    {
+      "method": "DyLoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 22.59
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 56.31
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 50.04
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 33.57
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 20.13
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 44.77
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "Qwen2.5-7B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 23.07
+    },
+    {
+      "method": "HAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 69.28
+    },
+    {
+      "method": "HAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 56.23
+    },
+    {
+      "method": "HAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 41.08
+    },
+    {
+      "method": "HAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 34.73
+    },
+    {
+      "method": "HAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 52.31
+    },
+    {
+      "method": "HAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 35.61
+    },
+    {
+      "method": "PAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 69.3
+    },
+    {
+      "method": "PAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 55.05
+    },
+    {
+      "method": "PAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 41.97
+    },
+    {
+      "method": "PAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 34.66
+    },
+    {
+      "method": "PAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 51.47
+    },
+    {
+      "method": "PAdapter",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 36.01
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 69.67
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 55.89
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 41.78
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 34.64
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 52.35
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 35.92
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 70.4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 56.31
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 42.17
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 34.86
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 52.9
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 36.15
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 70.36
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 56.26
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 42.16
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 34.89
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 52.8
+    },
+    {
+      "method": "DyLoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 36.2
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "BLEU-4",
+      "metric_value": 71.25
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-1",
+      "metric_value": 57.35
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "Magpie-Pro",
+      "metric_name": "ROUGE-L",
+      "metric_value": 43.02
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "BLEU-4",
+      "metric_value": 35.3
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-1",
+      "metric_value": 53.79
+    },
+    {
+      "method": "Sensitivity-LoRA",
+      "model": "LLaMA3.1-8B",
+      "evaluation_task": "OpenPlatypus",
+      "metric_name": "ROUGE-L",
+      "metric_value": 36.69
+    }
+  ],
+  "issues": [
+    "average_rank: 8 (not provided in table; added as metadata for all entries)",
+    "Sensitivity-LoRA (ours) in row headers; removed '(ours)' as per instruction"
+  ]
+}

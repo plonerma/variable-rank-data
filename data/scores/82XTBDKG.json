@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 40.61,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 36.61,
+      "trained_parameters": 410000,
+      "average_rank": 2,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 36.97,
+      "trained_parameters": 410000,
+      "average_rank": 2,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ElaLoRA",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 37.24,
+      "trained_parameters": 410000,
+      "average_rank": 2,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 37.64,
+      "trained_parameters": 1220000,
+      "average_rank": 6,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 37.8,
+      "trained_parameters": 1220000,
+      "average_rank": 6,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ElaLoRA",
+      "model": "Bart-base",
+      "evaluation_task": "XSum",
+      "metric_name": null,
+      "metric_value": 38.0,
+      "trained_parameters": 1220000,
+      "average_rank": 6,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified in column headers; assigned null for all entries."
+  ]
+}

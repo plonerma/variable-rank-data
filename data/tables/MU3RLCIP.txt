@@ -1,2 +1,4 @@
 columns: evaluation tasks
 no metric name given (null)
+
+average rank for LoRA and LoRA + IST: 32

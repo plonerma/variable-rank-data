@@ -1,0 +1,1085 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.8912,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9488,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6558,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8905,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8544,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.925,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.7943,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8905,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9213,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.874,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9431,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6465,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8813,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.849,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9254,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.7764,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8882,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.921,
+      "trained_parameters": 1400000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.8977,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9495,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.662,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8841,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8501,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9246,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8255,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8873,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.919,
+      "trained_parameters": 70000000,
+      "average_rank": 1,
+      "trained_parameter_ratio": 0.0007
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9084,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9413,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.66,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9077,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8631,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9369,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8068,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9003,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9193,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9089,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9518,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6728,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8848,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8733,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9048,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.7823,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9004,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9276,
+      "trained_parameters": 2800000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.896,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9524,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6848,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8898,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8425,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9149,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8567,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.891,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9009,
+      "trained_parameters": 1400000,
+      "average_rank": 2,
+      "trained_parameter_ratio": 0.00002
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.878,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9562,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6809,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9153,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8866,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9582,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.7816,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9207,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9471,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.86,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9614,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6824,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9005,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8762,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.92,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8637,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8901,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9099,
+      "trained_parameters": 5600000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9241,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9714,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6907,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9032,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9133,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9057,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8434,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8615,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8912,
+      "trained_parameters": 2800000,
+      "average_rank": 4,
+      "trained_parameter_ratio": 0.00004
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.903,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9641,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6965,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9092,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8723,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9449,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8537,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9064,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9127,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9109,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9653,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6898,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.913,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8744,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9467,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.7955,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9061,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRAk=20",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9315,
+      "trained_parameters": 11200000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00016
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9074,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 0.9644,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "matthews correlation coefficient",
+      "metric_value": 0.6934,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9212,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.8926,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 0.9466,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 0.8531,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9023,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    },
+    {
+      "method": "WLoRA+",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy/F1-score",
+      "metric_value": 0.9356,
+      "trained_parameters": 5600000,
+      "average_rank": 8,
+      "trained_parameter_ratio": 0.00008
+    }
+  ],
+  "issues": []
+}

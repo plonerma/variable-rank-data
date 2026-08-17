@@ -1,0 +1,6 @@
+row: model, method
+column: evaluation task
+location: Table 2
+model upper half: RoBERTa-large
+model lower half: DeBERTa-v3-base
+average rank: 16

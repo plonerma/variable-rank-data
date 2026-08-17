@@ -1,0 +1,197 @@
+{
+  "entries": [
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 73.9,
+      "average_rank": 16
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 80.1,
+      "average_rank": 16
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 74.4,
+      "average_rank": 16
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 38.6,
+      "average_rank": 16
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "GPT-Score",
+      "metric_value": 80.4,
+      "average_rank": 16
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 32.9,
+      "average_rank": 16
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 74.6,
+      "average_rank": 16
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 80.1,
+      "average_rank": 16
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 76.4,
+      "average_rank": 16
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 38.0,
+      "average_rank": 16
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "GPT-Score",
+      "metric_value": 80.7,
+      "average_rank": 16
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 36.8,
+      "average_rank": 16
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 72.9,
+      "average_rank": 32
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 79.9,
+      "average_rank": 32
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 75.8,
+      "average_rank": 32
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 38.5,
+      "average_rank": 32
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "GPT-Score",
+      "metric_value": 80.8,
+      "average_rank": 32
+    },
+    {
+      "method": "Baseline",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 32.6,
+      "average_rank": 32
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "EM",
+      "metric_value": 73.6,
+      "average_rank": 32
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "HotpotQA",
+      "metric_name": "F1",
+      "metric_value": 80.0,
+      "average_rank": 32
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "GSM8K",
+      "metric_name": "EM",
+      "metric_value": 76.0,
+      "average_rank": 32
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "ROUGE",
+      "metric_value": 38.6,
+      "average_rank": 32
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "Samsum",
+      "metric_name": "GPT-Score",
+      "metric_value": 81.2,
+      "average_rank": 32
+    },
+    {
+      "method": "Ours",
+      "model": "Llama3.1-8B-Instruct",
+      "evaluation_task": "WMT23(En->Zh)",
+      "metric_name": "BLEU",
+      "metric_value": 36.0,
+      "average_rank": 32
+    }
+  ],
+  "issues": []
+}

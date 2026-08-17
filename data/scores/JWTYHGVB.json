@@ -1,0 +1,365 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 83.94,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.3,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.39,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 86.89,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 89.13,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 92.43,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 88.21,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 84.19,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 87.4,
+      "trained_parameters": 45000000,
+      "trained_parameter_ratio": 0.0045
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 86.19,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.64,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.15,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 86.86,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 89.71,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.41,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.07,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.41,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 87.19,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-3.2-1B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 90.02,
+      "trained_parameters": 40000000,
+      "trained_parameter_ratio": 0.004
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.74,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 97.02,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.75,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 87.22,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 91.43,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.71,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.99,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.88,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 87.67,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 91.06,
+      "trained_parameters": 300000000,
+      "trained_parameter_ratio": 0.003
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.79,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 97.02,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 90.6,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 87.76,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA",
+      "model": "LLaMA-7B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 91.54,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.65,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.56,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.3,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "QQP",
+      "metric_name": "F1-score",
+      "metric_value": 88.51,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    },
+    {
+      "method": "DiffoRA_LoRA+",
+      "model": "LLaMA-7B",
+      "evaluation_task": "All",
+      "metric_name": "accuracy",
+      "metric_value": 91.76,
+      "trained_parameters": 220000000,
+      "trained_parameter_ratio": 0.0022
+    }
+  ],
+  "issues": []
+}

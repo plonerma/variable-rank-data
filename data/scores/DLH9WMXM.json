@@ -1,0 +1,446 @@
+{
+  "entries": [
+    {
+      "method": "Dense",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.68
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.09
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 4.77
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.12
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 4.57
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.12
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.05
+    },
+    {
+      "method": "Dense",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.18
+    },
+    {
+      "method": "Dense",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.94
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 7.22
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.21
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.31
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.51
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.63
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.98
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 9.3
+    },
+    {
+      "method": "SparseGPT",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 9.18
+    },
+    {
+      "method": "SparseGPT",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 7.73
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.91
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.04
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.16
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.31
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.49
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.91
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.5
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.49
+    },
+    {
+      "method": "w. LoRA",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.51
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.86
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.98
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.13
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.27
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.44
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.88
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.38
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.36
+    },
+    {
+      "method": "w. LoSA",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.46
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 7.26
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.15
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.24
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.42
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.56
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.98
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 9.59
+    },
+    {
+      "method": "Wanda",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 9.53
+    },
+    {
+      "method": "Wanda",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 7.29
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.84
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.04
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.17
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.33
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.46
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.94
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.56
+    },
+    {
+      "method": "w. LoRA",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.53
+    },
+    {
+      "method": "w. LoRA",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.53
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.82
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.94
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.13
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.24
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 5.41
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-2",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 3.93
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-3",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.41
+    },
+    {
+      "method": "w. LoSA",
+      "model": "LLaMA-3.1",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 8.42
+    },
+    {
+      "method": "w. LoSA",
+      "model": "Vicuna",
+      "evaluation_task": "WikiText-2",
+      "metric_name": "perplexity",
+      "metric_value": 6.44
+    }
+  ],
+  "issues": []
+}

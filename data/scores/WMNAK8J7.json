@@ -1,0 +1,2957 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 67.6,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.6,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.1,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.2,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 83.5,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 70.0,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 80.7,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 93.4,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 80.1,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 86.4,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 70.9,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 79.9,
+      "average_rank": 8
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 80.5,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 62.5,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.2,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 93.9,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.0,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.4,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.4,
+      "average_rank": 8
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 81.7,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 65.4,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.4,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.7,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.5,
+      "average_rank": 8
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.6,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.1,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.2,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.8,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.1,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.8,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 73.9,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.7,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.8,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 72.6,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.4,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.8,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.2,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.7,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 74.1,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.6,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.6,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.1,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.0,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.5,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 84.1,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 65.0,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.3,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.7,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.6,
+      "average_rank": 8
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.6,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.8,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.9,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.2,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.9,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.9,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.8,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.3,
+      "average_rank": 8
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 68.0,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 83.8,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.8,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 73.8,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 73.8,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 80.6,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 93.3,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 79.2,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 86.1,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 71.1,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 80.1,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 80.8,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 62.6,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.3,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.5,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.6,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.2,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.5,
+      "average_rank": 16
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.0,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.5,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.0,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.7,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.5,
+      "average_rank": 16
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.0,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 65.0,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.2,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.9,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 16
+    },
+    {
+      "method": "MiLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.0,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.6,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.3,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.0,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.9,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.8,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.6,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 68.3,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.6,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.8,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.3,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 68.3,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.1,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.2,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.3,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.8,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.3,
+      "average_rank": 16
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.1,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 73.5,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.9,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 76.0,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 87.3,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 74.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.1,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.9,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.4,
+      "average_rank": 16
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.1,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.0,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 83.7,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.2,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 73.9,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.4,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 72.6,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.2,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 80.6,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 93.2,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 80.3,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 86.2,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 71.1,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 79.9,
+      "average_rank": 32
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 80.8,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 65.1,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.0,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.6,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 73.5,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.2,
+      "average_rank": 32
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 63.6,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.6,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.2,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.7,
+      "average_rank": 32
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.5,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.0,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.7,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.3,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.8,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.2,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.5,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.2,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.1,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.6,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.9,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 65.4,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.4,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 85.0,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.5,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.3,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.4,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 66.9,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.6,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.7,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 32
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.7,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 69.0,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.8,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.7,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.2,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 89.1,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.7,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.9,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.7,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.0,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.9,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.3,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.8,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.3,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.0,
+      "average_rank": 32
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 32
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 74.7,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.6,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.0,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.0,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 83.8,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.5,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.0,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 80.4,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 93.1,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 80.2,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 86.0,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 71.1,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 79.9,
+      "average_rank": 64
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 80.5,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 64.9,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 81.3,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.0,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 87.6,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 73.3,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.0,
+      "average_rank": 64
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 81.9,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 70.0,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.3,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.9,
+      "average_rank": 64
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 70.5,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.4,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.1,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.4,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.5,
+      "average_rank": 64
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 66.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.3,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.3,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.1,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.2,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.7,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.9,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 70.5,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.0,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.6,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.3,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 74.7,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.9,
+      "average_rank": 64
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 67.4,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 95.1,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.9,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.9,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.5,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 86.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 1)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 71.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "PIQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "SIQA",
+      "metric_name": "accuracy",
+      "metric_value": 82.2,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "HellaSwag",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Winogrande",
+      "metric_name": "accuracy",
+      "metric_value": 84.0,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-e",
+      "metric_name": "accuracy",
+      "metric_value": 88.2,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "ARC-c",
+      "metric_name": "accuracy",
+      "metric_value": 75.0,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "OBQA",
+      "metric_name": "accuracy",
+      "metric_value": 84.8,
+      "average_rank": 64
+    },
+    {
+      "method": "EVA+DoRA (ρ = 2)",
+      "model": "Llama-2-7B",
+      "evaluation_task": "Avg.",
+      "metric_name": "accuracy",
+      "metric_value": 83.2,
+      "average_rank": 64
+    }
+  ],
+  "issues": []
+}

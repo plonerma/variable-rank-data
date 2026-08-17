@@ -1,0 +1,437 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 85.32,
+      "trained_parameters": 124650000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 91.49,
+      "trained_parameters": 124650000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 79.95,
+      "trained_parameters": 124650000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 83.09,
+      "trained_parameters": 124650000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 82.34,
+      "trained_parameters": 100000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 89.45,
+      "trained_parameters": 100000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 74.28,
+      "trained_parameters": 100000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 77.46,
+      "trained_parameters": 100000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 84.95,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 91.07,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 79.14,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 82.08,
+      "trained_parameters": 1200000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 84.86,
+      "trained_parameters": 1190000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 90.86,
+      "trained_parameters": 1190000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 78.86,
+      "trained_parameters": 1190000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 81.84,
+      "trained_parameters": 1190000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 85.13,
+      "trained_parameters": 1330000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 91.39,
+      "trained_parameters": 1330000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 79.25,
+      "trained_parameters": 1330000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 82.34,
+      "trained_parameters": 1330000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 85.34,
+      "trained_parameters": 1280000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 91.72,
+      "trained_parameters": 1280000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 79.87,
+      "trained_parameters": 1280000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 82.84,
+      "trained_parameters": 1280000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 85.97,
+      "trained_parameters": 1300000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 92.24,
+      "trained_parameters": 1300000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 80.43,
+      "trained_parameters": 1300000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 83.53,
+      "trained_parameters": 1300000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 84.60,
+      "trained_parameters": 310000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 90.44,
+      "trained_parameters": 310000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 78.48,
+      "trained_parameters": 310000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 81.55,
+      "trained_parameters": 310000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 84.44,
+      "trained_parameters": 300000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 90.34,
+      "trained_parameters": 300000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 78.22,
+      "trained_parameters": 300000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 81.34,
+      "trained_parameters": 300000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 84.91,
+      "trained_parameters": 330000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 90.91,
+      "trained_parameters": 330000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 78.83,
+      "trained_parameters": 330000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 81.78,
+      "trained_parameters": 330000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 85.13,
+      "trained_parameters": 320000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 91.32,
+      "trained_parameters": 320000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 79.47,
+      "trained_parameters": 320000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 82.40,
+      "trained_parameters": 320000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "accuracy",
+      "metric_value": 85.73,
+      "trained_parameters": 340000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v1",
+      "metric_name": "f1-score",
+      "metric_value": 91.88,
+      "trained_parameters": 340000,
+      "finetuning_task": "SQuAD v1"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "accuracy",
+      "metric_value": 79.90,
+      "trained_parameters": 340000,
+      "finetuning_task": "SQuAD v2"
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SQuAD v2",
+      "metric_name": "f1-score",
+      "metric_value": 82.92,
+      "trained_parameters": 340000,
+      "finetuning_task": "SQuAD v2"
+    }
+  ],
+  "issues": []
+}

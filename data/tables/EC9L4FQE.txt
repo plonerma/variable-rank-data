@@ -1,6 +1,7 @@
 Model in the top section: LLaMA-7B
 Model in the bottom section: LLaMA-13B
 Column heads contain the evaluation task
-Second column ("Params(%)") contains the percentage (ratio) of trained parameters in E-notation.
+
+Second column ("Params(%)") contains the percentage (ratio) of trained parameters in E-notation. Make sure to divide the number by 100 to convert it from a percentage to a ratio.
 
 metric name not given (null).

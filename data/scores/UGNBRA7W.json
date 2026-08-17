@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "method": "AdaRANK (OURS)",
+      "model": "bert-base-cased",
+      "evaluation_task": "TREC",
+      "metric_name": null,
+      "metric_value": 0.9714,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaRANK (OURS)",
+      "model": "bert-base-cased",
+      "evaluation_task": "YELP",
+      "metric_name": null,
+      "metric_value": 0.9965,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaRANK (OURS)",
+      "model": "bert-base-cased",
+      "evaluation_task": "AG NEWS",
+      "metric_name": null,
+      "metric_value": 0.9316,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "UNIFORM",
+      "model": "bert-base-cased",
+      "evaluation_task": "TREC",
+      "metric_name": null,
+      "metric_value": 0.9713,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "UNIFORM",
+      "model": "bert-base-cased",
+      "evaluation_task": "YELP",
+      "metric_name": null,
+      "metric_value": 0.9961,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "UNIFORM",
+      "model": "bert-base-cased",
+      "evaluation_task": "AG NEWS",
+      "metric_name": null,
+      "metric_value": 0.9275,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names not specified; assigned null for all entries.",
+    "No 'trained_parameters' column or additional info provided; omitted for all entries.",
+    "No 'trained_parameter_ratio' column or additional info provided; omitted for all entries.",
+    "No 'finetuning_task' column or additional info provided; omitted for all entries."
+  ]
+}

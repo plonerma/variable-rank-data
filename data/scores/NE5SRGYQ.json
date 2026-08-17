@@ -1,0 +1,238 @@
+{
+  "entries": [
+    {
+      "method": "FT",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.12,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 19.56,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.35,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.03,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 18.76,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.26,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.14,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 18.79,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.36,
+      "trained_parameters": null,
+      "average_rank": 4,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.19,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 18.90,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.40,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.36,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 18.97,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.59,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.15,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 18.84,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.36,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 41.27,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 18.91,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "T5-small",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": null,
+      "metric_value": 38.47,
+      "trained_parameters": null,
+      "average_rank": 16,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Metric names are not specified in the table or additional info; assigned null for all entries."
+  ]
+}

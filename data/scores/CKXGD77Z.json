@@ -1,0 +1,257 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "accuracy",
+      "metric_value": 67.52,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "accuracy",
+      "metric_value": 89.84,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 89.12,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.77,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.39,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 81.73,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 86.23,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "accuracy",
+      "metric_value": 63.47,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "accuracy",
+      "metric_value": 81.68,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 87.06,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.04,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 92.46,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 86.09,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "SoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 83.47,
+      "trained_parameters": 300000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "accuracy",
+      "metric_value": 68.62,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "accuracy",
+      "metric_value": 90.54,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 84.31,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.11,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.39,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 79.71,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 85.45,
+      "trained_parameters": 440000,
+      "average_rank": 4
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "CoLA",
+      "metric_name": "accuracy",
+      "metric_value": 68.53,
+      "trained_parameters": null,
+      "average_rank": null
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "STS-B",
+      "metric_name": "accuracy",
+      "metric_value": 91.38,
+      "trained_parameters": null,
+      "average_rank": null
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "MRPC",
+      "metric_name": "accuracy",
+      "metric_value": 88.12,
+      "trained_parameters": null,
+      "average_rank": null
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.15,
+      "trained_parameters": null,
+      "average_rank": null
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.44,
+      "trained_parameters": null,
+      "average_rank": null
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 80.92,
+      "trained_parameters": null,
+      "average_rank": null
+    },
+    {
+      "method": "GeLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "Average",
+      "metric_name": "accuracy",
+      "metric_value": 86.26,
+      "trained_parameters": null,
+      "average_rank": null
+    }
+  ],
+  "issues": []
+}

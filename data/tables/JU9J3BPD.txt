@@ -1,6 +1,6 @@
 method "ours" = LoRPA (final average rank is 8)
 
-Column "rank size" contains the average rank.
+Column "rank size" contains the average rank (if it follows the pattern 256→8; use value 8).
 
 The used model is RoBERTa.
 

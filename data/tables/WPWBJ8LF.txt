@@ -1,1 +1,3 @@
 Only include PPL (replace by Perplexity) as an entry. Finetuned and evaluated on OpenOrca. Rank entries with an arrow define start and final rank (we only need the final rank).
+
+"No. of adapter parameter [M] > End of training" refers to the number of trained parameters in millions (convert to an integer).

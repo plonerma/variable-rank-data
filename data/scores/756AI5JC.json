@@ -1,0 +1,455 @@
+{
+  "entries": [
+    {
+      "method": "Full-FT",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.4,
+      "trained_parameters": 355000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full-FT",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 355000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full-FT",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 92.2,
+      "trained_parameters": 355000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full-FT",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.4,
+      "trained_parameters": 355000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full-FT",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 93.4,
+      "trained_parameters": 355000000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.8,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.5,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.3,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 93.3,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.6,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 94.9,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 91.6,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 96.2,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 93.3,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LayerDrop",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.4,
+      "trained_parameters": 500000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "LayerDrop",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 91.7,
+      "trained_parameters": 500000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "LayerDrop",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 88.3,
+      "trained_parameters": 500000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "LayerDrop",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.7,
+      "trained_parameters": 500000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "LayerDrop",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 90.5,
+      "trained_parameters": 500000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "LST",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 86.7,
+      "trained_parameters": 8600000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LST",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 90.2,
+      "trained_parameters": 8600000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LST",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 89.7,
+      "trained_parameters": 8600000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LST",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.1,
+      "trained_parameters": 8600000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LST",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 90.4,
+      "trained_parameters": 8600000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 88.3,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.2,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 89.8,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.6,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 91.7,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.4,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.6,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 89.7,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.9,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 92.2,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.72,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 87.6,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.1,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 89.1,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.4,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (Adapter)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 91.3,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MNLI",
+      "metric_name": "accuracy",
+      "metric_value": 89.0,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.5,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "QQP",
+      "metric_name": "accuracy",
+      "metric_value": 89.2,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.8,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours (LoRA)",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "GLUE",
+      "metric_name": "accuracy",
+      "metric_value": 91.9,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.67,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,1544 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 68.9,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 87.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 64.3,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 97.2,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 86.9,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 38.8,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 79.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 95.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 84.2,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 73.9,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 56.3,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 58.6,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 41.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 65.5,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 57.5,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 46.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 25.7,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "Full FT",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 29.1,
+      "trained_parameters": 327000000
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 49.3,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 87.7,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 63.1,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 98.1,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 87.5,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 73.2,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 47.0,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 79.4,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 94.4,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 80.1,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 71.5,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 74.3,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 60.4,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 40.4,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 72.2,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 67.9,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 40.8,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 13.7,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "LoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 29.3,
+      "trained_parameters": 12900000,
+      "average_rank": 14
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 50.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 86.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 63.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 98.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 87.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 72.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 49.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 78.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 94.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 78.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 74.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 67.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 57.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 40.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 74.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 65.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 38.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 12.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 30.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 52.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 86.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 65.8,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 98.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 89.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 57.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 50.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 78.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 91.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 76.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 72.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 57.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 49.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 38.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 72.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 60.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 36.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 12.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "LieRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 26.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 39.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 83.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 61.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 97.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 86.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 33.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 48.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 77.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 85.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 66.8,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 73.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 31.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 29.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 34.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 54.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 12.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 16.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 10.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MiLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 21.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 48.8,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 87.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 62.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 98.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 88.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 67.8,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 47.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 80.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 94.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 79.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 70.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 73.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 54.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 41.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 74.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 70.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 40.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 12.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "PiSSA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 29.8,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 48.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 85.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 60.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 97.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 86.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 74.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 47.7,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 77.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 94.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 76.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 74.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 74.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 59.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 41.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 74.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 66.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 37.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 13.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MoSLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 30.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 56.9,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 87.2,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 63.3,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 98.4,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 88.3,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 69.5,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 51.2,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 76.4,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 92.6,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 76.5,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 72.3,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 56.5,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 51.8,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 39.5,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 75.3,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 45.1,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 35.9,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 12.7,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 27.1,
+      "trained_parameters": 126000000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 49.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 87.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 62.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 97.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 88.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 69.8,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 47.6,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 79.9,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 94.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 80.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 70.1,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 73.5,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 57.4,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 42.3,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 74.0,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 69.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 43.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 13.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "MLAE",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 30.2,
+      "trained_parameters": 11100000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Cifar100",
+      "metric_name": "accuracy",
+      "metric_value": 58.2,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Caltech101",
+      "metric_name": "accuracy",
+      "metric_value": 88.9,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DTD",
+      "metric_name": "accuracy",
+      "metric_value": 64.3,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Flower102",
+      "metric_name": "accuracy",
+      "metric_value": 98.5,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Pets",
+      "metric_name": "accuracy",
+      "metric_value": 89.3,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "SVHN",
+      "metric_name": "accuracy",
+      "metric_value": 73.7,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Sun397",
+      "metric_name": "accuracy",
+      "metric_value": 51.3,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Camelyon",
+      "metric_name": "accuracy",
+      "metric_value": 80.0,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "EuroSAT",
+      "metric_name": "accuracy",
+      "metric_value": 93.4,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Resisc45",
+      "metric_name": "accuracy",
+      "metric_value": 80.3,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Retinopathy",
+      "metric_name": "accuracy",
+      "metric_value": 73.4,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Count",
+      "metric_name": "accuracy",
+      "metric_value": 66.9,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "Clevr-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 60.0,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "DMLab",
+      "metric_name": "accuracy",
+      "metric_value": 41.0,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "KITTI-Dist",
+      "metric_name": "accuracy",
+      "metric_value": 77.8,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Loc",
+      "metric_name": "accuracy",
+      "metric_value": 64.7,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "dSpr-Ori",
+      "metric_name": "accuracy",
+      "metric_value": 39.0,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Azim",
+      "metric_name": "accuracy",
+      "metric_value": 13.6,
+      "trained_parameters": 118000000
+    },
+    {
+      "method": "FlexLoRA",
+      "model": "ViT-B/16",
+      "evaluation_task": "sNORB-Ele",
+      "metric_name": "accuracy",
+      "metric_value": 29.9,
+      "trained_parameters": 118000000
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,341 @@
+{
+  "entries": [
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.76,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.03,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.01,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 57.84,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.19,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.42,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 78.75,
+      "average_rank": 4
+    },
+    {
+      "method": "HAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.91,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.95,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.11,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 86.54,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 57.95,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.37,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.55,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.42,
+      "average_rank": 4
+    },
+    {
+      "method": "PAdapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.97,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.26,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.46,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.08,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 58.83,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.95,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.5,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.39,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.03,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.32,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.57,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.28,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 59.0,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.08,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.62,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.56,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.21,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.24,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.65,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.28,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 58.98,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.0,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.57,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.59,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.17,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.58,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.59,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.73,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 60.2,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.62,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.74,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 81.81,
+      "average_rank": 4
+    },
+    {
+      "method": "Sensitivity-LoRA (ours)",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.27,
+      "average_rank": 4
+    }
+  ],
+  "issues": []
+}

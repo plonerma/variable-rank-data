@@ -1,0 +1,965 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 78.63,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.33,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.31,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 60.26,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.73,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.58,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.75,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.68,
+      "trained_parameters": 124650000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.57,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.07,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.55,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 61.16,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.38,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 90.99,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 88.08,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BitFit",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 85.5,
+      "trained_parameters": 100000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 80.43,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.9,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.16,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 62.62,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.73,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.82,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.83,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.53,
+      "trained_parameters": 1200000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 80.51,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.51,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.65,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 63.87,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.83,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.61,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.53,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.75,
+      "trained_parameters": 1190000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 80.65,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.9,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.91,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 63.54,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.71,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.76,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.44,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.11,
+      "trained_parameters": 1330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 81.23,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.02,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.22,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 63.23,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.11,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.84,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.48,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.89,
+      "trained_parameters": 1270000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 81.73,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 90.05,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.34,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 65.35,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.21,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.97,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 91.32,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.81,
+      "trained_parameters": 1310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 78.56,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.64,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.88,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 61.76,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.54,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.52,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.16,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "H-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.31,
+      "trained_parameters": 310000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.07,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.74,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.44,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 62.92,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.24,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.59,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 89.94,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "P-Adapter",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 86.23,
+      "trained_parameters": 300000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 78.63,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.68,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.24,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 62.4,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.25,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.75,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.12,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.01,
+      "trained_parameters": 330000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.04,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.81,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.06,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 63.17,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.79,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.87,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.07,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.64,
+      "trained_parameters": 320000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "RTE",
+      "metric_value": 79.15,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.72,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.28,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "CoLA",
+      "metric_value": 64.9,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.98,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 92.93,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "QQP",
+      "metric_value": 90.64,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "DoRA",
+      "model": "RoBERTa-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 87.45,
+      "trained_parameters": 340000,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

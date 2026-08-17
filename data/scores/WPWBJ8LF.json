@@ -1,0 +1,80 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "LLaMA 3 8B",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 3.32,
+      "trained_parameters": 41940000,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA 3 8B",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 3.63,
+      "trained_parameters": 62920000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLaMA 3 8B",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 3.57,
+      "trained_parameters": 41950000,
+      "average_rank": 12
+    },
+    {
+      "method": "L1RA",
+      "model": "LLaMA 3 8B",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 3.25,
+      "trained_parameters": 45160000,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "MISTRAL 7B v0.3",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 2.93,
+      "trained_parameters": 41940000,
+      "average_rank": 16
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "MISTRAL 7B v0.3",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 3.16,
+      "trained_parameters": 62920000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "MISTRAL 7B v0.3",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 3.16,
+      "trained_parameters": 41950000,
+      "average_rank": 12
+    },
+    {
+      "method": "L1RA",
+      "model": "MISTRAL 7B v0.3",
+      "evaluation_task": "OpenOrca",
+      "metric_name": "Perplexity",
+      "metric_value": 2.91,
+      "trained_parameters": 50060000,
+      "average_rank": 16
+    }
+  ],
+  "issues": [
+    "Column 'Rank' contains values like '24→16' which indicate a change from start to end rank; only the final rank (16 or 12) is used for 'average_rank'.",
+    "The 'No. of adapter parameters [M] ↓' column is split into 'Start of training' and 'End of training' sub-columns; the 'End of training' value is used for 'trained_parameters' as per instruction."
+  ]
+}

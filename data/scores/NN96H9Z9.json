@@ -1,0 +1,647 @@
+{
+  "entries": [
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 90.6,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 96.0,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.2,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 66.8,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 94.6,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 91.6,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 85.2,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "FFT",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.5,
+      "trained_parameters": 355000000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 89.2,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.6,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.2,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 65.0,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.9,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 88.1,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 81.9,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.4,
+      "trained_parameters": 273000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 90.2,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 96.1,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 90.2,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 68.3,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 94.8,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 91.9,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 83.8,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "Adapters†",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 92.1,
+      "trained_parameters": 30000000,
+      "average_rank": null
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 90.7,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.3,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.7,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 65.1,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.8,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 90.3,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 84.8,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "LoRA",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.7,
+      "trained_parameters": 3400000,
+      "average_rank": 8
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 90.6,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.3,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.7,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 65.1,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.8,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 90.3,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 84.8,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "MaM",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.7,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 90.6,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.9,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 90.4,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 66.3,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 94.5,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 90.6,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 85.2,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "S-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.6,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 90.3,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.8,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 90.7,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 66.8,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 94.1,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 90.8,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 85.9,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "U-MaM",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 91.8,
+      "trained_parameters": 3400000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 88.2,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 96.0,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 90.8,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 60.6,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.5,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 84.5,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 75.8,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "WARP†",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.6,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.1,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 94.2,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 70.6,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 40.2,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 88.9,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 83.8,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 56.0,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "S-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 76.8,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "MNLI",
+      "metric_value": 88.8,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "SST-2",
+      "metric_value": 95.5,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "MRPC",
+      "metric_value": 85.3,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "CoLA",
+      "metric_value": 62.1,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "QNLI",
+      "metric_value": 93.5,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "QQP",
+      "metric_value": 87.7,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "RTE",
+      "metric_value": 74.0,
+      "trained_parameters": 25000,
+      "average_rank": null
+    },
+    {
+      "method": "U-BitFit",
+      "model": "roberta-large",
+      "evaluation_task": "STS-B",
+      "metric_value": 90.3,
+      "trained_parameters": 25000,
+      "average_rank": null
+    }
+  ],
+  "issues": [
+    "Rank for LoRA: 8 — this value is provided as additional info but not assigned to any entry; it should be assigned to the LoRA row entries."
+  ]
+}

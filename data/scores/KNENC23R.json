@@ -1,0 +1,205 @@
+{
+  "entries": [
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "ReCord",
+      "metric_name": null,
+      "metric_value": 89.5,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "WiC",
+      "metric_name": null,
+      "metric_value": 71.0,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "BoolQ",
+      "metric_name": null,
+      "metric_value": 84.3,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MultiRC",
+      "metric_name": null,
+      "metric_value": 82.4,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Adapter",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 81.8,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "ReCord",
+      "metric_name": null,
+      "metric_value": 86.0,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "WiC",
+      "metric_name": null,
+      "metric_value": 70.1,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "BoolQ",
+      "metric_name": null,
+      "metric_value": 81.2,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MultiRC",
+      "metric_name": null,
+      "metric_value": 76.0,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 78.3,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "ReCord",
+      "metric_name": null,
+      "metric_value": 88.3,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "WiC",
+      "metric_name": null,
+      "metric_value": 72.7,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "BoolQ",
+      "metric_name": null,
+      "metric_value": 84.1,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MultiRC",
+      "metric_name": null,
+      "metric_value": 82.7,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 82.0,
+      "trained_parameters": 800000,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "ReCord",
+      "metric_name": null,
+      "metric_value": 86.6,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "WiC",
+      "metric_name": null,
+      "metric_value": 70.2,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "BoolQ",
+      "metric_name": null,
+      "metric_value": 83.3,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "MultiRC",
+      "metric_name": null,
+      "metric_value": 78.0,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    },
+    {
+      "method": "Ours",
+      "model": "RoBERTa-Large",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 79.5,
+      "trained_parameters": 300000,
+      "trained_parameter_ratio": 0.76,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

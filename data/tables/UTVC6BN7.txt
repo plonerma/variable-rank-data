@@ -5,3 +5,5 @@ Evaluation tasks are given in the second level of the column heads.
 Used metric is accuracy.
 
 Hella. is short for HellaSwag (replace in the result).
+
+"Trainable" contains the percentage of trained parameters (divide by 100 to get the trained parameters ratio).

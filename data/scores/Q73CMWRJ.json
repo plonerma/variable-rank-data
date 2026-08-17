@@ -1,0 +1,405 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 68.0,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "NIST",
+      "metric_value": 8.61,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "MET",
+      "metric_value": 46.1,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "ROUGE-L",
+      "metric_value": 69.0,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "CIDEr",
+      "metric_value": 2.38,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "BLEU",
+      "metric_value": 46.5,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "MET",
+      "metric_value": 38.0,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "Full FT",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "TER",
+      "metric_value": 0.53,
+      "trained_parameters": 354900000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 67.0,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "NIST",
+      "metric_value": 8.5,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "MET",
+      "metric_value": 45.2,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "ROUGE-L",
+      "metric_value": 66.9,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "CIDEr",
+      "metric_value": 2.31,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "BLEU",
+      "metric_value": 50.2,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "MET",
+      "metric_value": 38.0,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "Adapter",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "TER",
+      "metric_value": 0.46,
+      "trained_parameters": 11100000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 67.1,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "NIST",
+      "metric_value": 8.54,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "MET",
+      "metric_value": 45.7,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "ROUGE-L",
+      "metric_value": 68.0,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "CIDEr",
+      "metric_value": 2.33,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "BLEU",
+      "metric_value": 50.7,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "MET",
+      "metric_value": 39.5,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "LoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "TER",
+      "metric_value": 0.46,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 67.0,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "NIST",
+      "metric_value": 8.55,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "MET",
+      "metric_value": 45.5,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "ROUGE-L",
+      "metric_value": 68.1,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "CIDEr",
+      "metric_value": 2.32,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "BLEU",
+      "metric_value": 50.6,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "MET",
+      "metric_value": 39.4,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "TER",
+      "metric_value": 0.44,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 67.9,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "NIST",
+      "metric_value": 8.68,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "MET",
+      "metric_value": 46.0,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "ROUGE-L",
+      "metric_value": 68.9,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "E2E",
+      "metric_name": "CIDEr",
+      "metric_value": 2.37,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "E2E"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "BLEU",
+      "metric_value": 50.8,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "MET",
+      "metric_value": 39.6,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    },
+    {
+      "method": "AutoLoRA",
+      "model": "GPT-medium",
+      "evaluation_task": "WebNLG",
+      "metric_name": "TER",
+      "metric_value": 0.44,
+      "trained_parameters": 300000,
+      "average_rank": 4,
+      "finetuning_task": "WebNLG"
+    }
+  ],
+  "issues": []
+}

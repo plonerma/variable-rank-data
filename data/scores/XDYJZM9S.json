@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "method": "PLoP(D-O-V)",
+      "model": "Qwen3-1.7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 0.754,
+      "trained_parameters": 43900000,
+      "average_rank": 102,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "PLoP(D-O-V)",
+      "model": "Qwen3-1.7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 0.752,
+      "trained_parameters": 27500000,
+      "average_rank": 64,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "PLoP⁻¹(G-K-Q)",
+      "model": "Qwen3-1.7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 0.746,
+      "trained_parameters": 27500000,
+      "average_rank": 64,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "MLP(D-G-U)",
+      "model": "Qwen3-1.7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 0.75,
+      "trained_parameters": 44000000,
+      "average_rank": 64,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "Attn(K-Q-V)",
+      "model": "Qwen3-1.7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 0.695,
+      "trained_parameters": 18400000,
+      "average_rank": 64,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "all",
+      "model": "Qwen3-1.7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "accuracy",
+      "metric_value": 0.739,
+      "trained_parameters": 69700000,
+      "average_rank": 64,
+      "finetuning_task": "MetaMathQA"
+    }
+  ],
+  "issues": []
+}

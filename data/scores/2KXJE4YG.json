@@ -1,0 +1,824 @@
+{
+  "entries": [
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.4,
+      "trained_parameters": 20900000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 79.6,
+      "trained_parameters": 20900000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.6,
+      "trained_parameters": 20900000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 84.7,
+      "trained_parameters": 20900000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.3,
+      "trained_parameters": 20900000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 89.9,
+      "trained_parameters": 20900000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "P-tuning v2",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 87.6,
+      "trained_parameters": 20900000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.6,
+      "trained_parameters": 16800000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 80.3,
+      "trained_parameters": 16800000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.8,
+      "trained_parameters": 16800000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 85.3,
+      "trained_parameters": 16800000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.6,
+      "trained_parameters": 16800000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.2,
+      "trained_parameters": 16800000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "SPT",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.1,
+      "trained_parameters": 16800000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.5,
+      "trained_parameters": 21000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 81.3,
+      "trained_parameters": 21000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.9,
+      "trained_parameters": 21000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 85.2,
+      "trained_parameters": 21000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.0,
+      "trained_parameters": 21000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.4,
+      "trained_parameters": 21000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.0,
+      "trained_parameters": 21000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.6,
+      "trained_parameters": 21000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 81.2,
+      "trained_parameters": 21000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.0,
+      "trained_parameters": 21000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 85.7,
+      "trained_parameters": 21000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.8,
+      "trained_parameters": 21000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.6,
+      "trained_parameters": 21000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "Parallel-Adapters",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.2,
+      "trained_parameters": 21000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.2,
+      "trained_parameters": 21000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 80.7,
+      "trained_parameters": 21000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 92.8,
+      "trained_parameters": 21000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 85.1,
+      "trained_parameters": 21000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.6,
+      "trained_parameters": 21000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.3,
+      "trained_parameters": 21000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "AdapterDrop",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 87.9,
+      "trained_parameters": 21000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.4,
+      "trained_parameters": 21100000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 81.6,
+      "trained_parameters": 21100000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.0,
+      "trained_parameters": 21100000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 86.2,
+      "trained_parameters": 21100000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.0,
+      "trained_parameters": 21100000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.4,
+      "trained_parameters": 21100000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "LST",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 87.9,
+      "trained_parameters": 21100000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "trained_parameters": 21200000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 82.1,
+      "trained_parameters": 21200000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.1,
+      "trained_parameters": 21200000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.0,
+      "trained_parameters": 21200000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.1,
+      "trained_parameters": 21200000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.7,
+      "trained_parameters": 21200000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.3,
+      "trained_parameters": 21200000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.3,
+      "trained_parameters": 20000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.3,
+      "trained_parameters": 20000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.3,
+      "trained_parameters": 20000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.8,
+      "trained_parameters": 20000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "LoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.4,
+      "trained_parameters": 20000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.5,
+      "trained_parameters": 20000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.2,
+      "trained_parameters": 20000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.6,
+      "trained_parameters": 20000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 91.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.3,
+      "trained_parameters": 20000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.2,
+      "trained_parameters": 20000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.7,
+      "trained_parameters": 20000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.3,
+      "trained_parameters": 20000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.6,
+      "trained_parameters": 20000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.7,
+      "trained_parameters": 20000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 91.0,
+      "trained_parameters": 20000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "SoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.5,
+      "trained_parameters": 20000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 93.9,
+      "trained_parameters": 20000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.4,
+      "trained_parameters": 20000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.2,
+      "trained_parameters": 20000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.2,
+      "trained_parameters": 20000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.5,
+      "trained_parameters": 20000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.9,
+      "trained_parameters": 20000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "SaLoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.4,
+      "trained_parameters": 20000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 94.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 83.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.1,
+      "trained_parameters": 20000000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.6,
+      "trained_parameters": 20000000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 90.6,
+      "trained_parameters": 20000000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "SSP",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 88.2,
+      "trained_parameters": 20000000,
+      "finetuning_task": "Squad"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "SST-2",
+      "metric_name": "accuracy",
+      "metric_value": 95.0,
+      "trained_parameters": 19600000,
+      "finetuning_task": "SST-2"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "RTE",
+      "metric_name": "accuracy",
+      "metric_value": 84.6,
+      "trained_parameters": 19600000,
+      "finetuning_task": "RTE"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "QNLI",
+      "metric_name": "accuracy",
+      "metric_value": 93.7,
+      "trained_parameters": 19600000,
+      "finetuning_task": "QNLI"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 88.0,
+      "trained_parameters": 19600000,
+      "finetuning_task": "BoolQ"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 92.1,
+      "trained_parameters": 19600000,
+      "finetuning_task": "COPA"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "ReCoRD",
+      "metric_name": "f1-em",
+      "metric_value": 91.8,
+      "trained_parameters": 19600000,
+      "finetuning_task": "ReCoRD"
+    },
+    {
+      "method": "ALoRA",
+      "model": "llama-2 7B",
+      "evaluation_task": "Squad",
+      "metric_name": "f1-em",
+      "metric_value": 89.2,
+      "trained_parameters": 19600000,
+      "finetuning_task": "Squad"
+    }
+  ],
+  "issues": []
+}

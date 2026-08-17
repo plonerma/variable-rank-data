@@ -1,0 +1,581 @@
+{
+  "entries": [
+    {
+      "method": "Full FT",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 38.81,
+      "trained_parameters": 212600000
+    },
+    {
+      "method": "Full FT",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 16.5,
+      "trained_parameters": 212600000
+    },
+    {
+      "method": "Full FT",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 31.27,
+      "trained_parameters": 212600000
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 36.35,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 14.16,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 28.88,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 36.68,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 14.27,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 28.13,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "SoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 36.87,
+      "trained_parameters": 460000
+    },
+    {
+      "method": "SoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 14.54,
+      "trained_parameters": 460000
+    },
+    {
+      "method": "SoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 28.32,
+      "trained_parameters": 460000
+    },
+    {
+      "method": "DoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 36.89,
+      "trained_parameters": 360000
+    },
+    {
+      "method": "DoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 14.68,
+      "trained_parameters": 360000
+    },
+    {
+      "method": "DoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 28.49,
+      "trained_parameters": 360000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 37.36,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 15.03,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "T5-base",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 29.14,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "Full FT",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 42.05,
+      "trained_parameters": 212600000
+    },
+    {
+      "method": "Full FT",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.34,
+      "trained_parameters": 212600000
+    },
+    {
+      "method": "Full FT",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 39.4,
+      "trained_parameters": 212600000
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 41.27,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 19.33,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "LoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 38.76,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 41.53,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 19.52,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 39.01,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "SoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 41.78,
+      "trained_parameters": 460000
+    },
+    {
+      "method": "SoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 19.86,
+      "trained_parameters": 460000
+    },
+    {
+      "method": "SoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 40.18,
+      "trained_parameters": 460000
+    },
+    {
+      "method": "DoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 42.92,
+      "trained_parameters": 360000
+    },
+    {
+      "method": "DoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.03,
+      "trained_parameters": 360000
+    },
+    {
+      "method": "DoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 40.28,
+      "trained_parameters": 360000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.47,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.52,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "T5-base",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 40.91,
+      "trained_parameters": 340000
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 45.49,
+      "trained_parameters": 375500000
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 22.33,
+      "trained_parameters": 375500000
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 37.26,
+      "trained_parameters": 375500000
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 42.81,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 19.68,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 34.73,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.29,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 19.95,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 35.04,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "SoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.46,
+      "trained_parameters": 720000
+    },
+    {
+      "method": "SoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.27,
+      "trained_parameters": 720000
+    },
+    {
+      "method": "SoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 35.28,
+      "trained_parameters": 720000
+    },
+    {
+      "method": "DoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.39,
+      "trained_parameters": 640000
+    },
+    {
+      "method": "DoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.45,
+      "trained_parameters": 640000
+    },
+    {
+      "method": "DoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 35.39,
+      "trained_parameters": 640000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.93,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.81,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "BART-large",
+      "evaluation_task": "XSum",
+      "metric_name": "Rouge-L",
+      "metric_value": 36.04,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 44.16,
+      "trained_parameters": 375500000
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 21.28,
+      "trained_parameters": 375500000
+    },
+    {
+      "method": "Full FT",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 40.9,
+      "trained_parameters": 375500000
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.68,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.63,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 40.71,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 43.94,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 20.83,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 40.96,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "SoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 44.21,
+      "trained_parameters": 720000
+    },
+    {
+      "method": "SoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 21.21,
+      "trained_parameters": 720000
+    },
+    {
+      "method": "SoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 41.18,
+      "trained_parameters": 720000
+    },
+    {
+      "method": "DoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 44.35,
+      "trained_parameters": 640000
+    },
+    {
+      "method": "DoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 21.34,
+      "trained_parameters": 640000
+    },
+    {
+      "method": "DoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 41.34,
+      "trained_parameters": 640000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-1",
+      "metric_value": 44.94,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-2",
+      "metric_value": 21.86,
+      "trained_parameters": 600000
+    },
+    {
+      "method": "SalientLoRA",
+      "model": "BART-large",
+      "evaluation_task": "CNN/DailyMail",
+      "metric_name": "Rouge-L",
+      "metric_value": 41.78,
+      "trained_parameters": 600000
+    }
+  ],
+  "issues": []
+}

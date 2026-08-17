@@ -1,0 +1,2407 @@
+{
+  "entries": [
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 24.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 88.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 68.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "DTD",
+      "metric_value": 44.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 54.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "Flowers",
+      "metric_value": 71.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "Food",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "MNIST",
+      "metric_value": 59.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "Cars",
+      "metric_value": 64.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "SUN397",
+      "metric_value": 65.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Zero-shot [62]",
+      "evaluation_task": "Average",
+      "metric_value": 65.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 72.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 49.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 35.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "DTD",
+      "metric_value": 44.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 41.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Flowers",
+      "metric_value": 66.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Food",
+      "metric_value": 60.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "MNIST",
+      "metric_value": 50.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 69.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Cars",
+      "metric_value": 19.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "SUN397",
+      "metric_value": 51.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Average",
+      "metric_value": 50.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 82.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 62.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 40.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "DTD",
+      "metric_value": 40.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 40.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Flowers",
+      "metric_value": 56.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Food",
+      "metric_value": 80.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "MNIST",
+      "metric_value": 60.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 77.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Cars",
+      "metric_value": 40.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "SUN397",
+      "metric_value": 60.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Average",
+      "metric_value": 60.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 77.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 60.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 41.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "DTD",
+      "metric_value": 39.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 53.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Flowers",
+      "metric_value": 76.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Food",
+      "metric_value": 58.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "MNIST",
+      "metric_value": 61.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 75.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Cars",
+      "metric_value": 37.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "SUN397",
+      "metric_value": 58.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Average",
+      "metric_value": 57.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 84.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 68.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 44.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "DTD",
+      "metric_value": 46.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 63.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Flowers",
+      "metric_value": 84.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Food",
+      "metric_value": 61.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "MNIST",
+      "metric_value": 81.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 55.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Cars",
+      "metric_value": 62.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "SUN397",
+      "metric_value": 65.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Average",
+      "metric_value": 65.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 87.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 68.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 44.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "DTD",
+      "metric_value": 48.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 64.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Flowers",
+      "metric_value": 88.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Food",
+      "metric_value": 69.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "MNIST",
+      "metric_value": 89.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 64.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Cars",
+      "metric_value": 65.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "SUN397",
+      "metric_value": 68.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Average",
+      "metric_value": 68.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 88.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 68.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 44.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "DTD",
+      "metric_value": 54.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 71.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Flowers",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Food",
+      "metric_value": 65.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "MNIST",
+      "metric_value": 59.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Cars",
+      "metric_value": 64.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "SUN397",
+      "metric_value": 65.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Average",
+      "metric_value": 69.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Aircraft",
+      "metric_value": 92.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Caltech101",
+      "metric_value": 68.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 45.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "DTD",
+      "metric_value": 54.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 69.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Flowers",
+      "metric_value": 87.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Food",
+      "metric_value": 65.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "MNIST",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 64.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Cars",
+      "metric_value": 64.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "SUN397",
+      "metric_value": 69.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Average",
+      "metric_value": 69.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Aircraft",
+      "metric_value": 92.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Caltech101",
+      "metric_value": 68.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 45.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "DTD",
+      "metric_value": 54.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 69.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Flowers",
+      "metric_value": 87.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Food",
+      "metric_value": 65.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "MNIST",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 64.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Cars",
+      "metric_value": 64.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "SUN397",
+      "metric_value": 69.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Average",
+      "metric_value": 69.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 23.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 77.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 43.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "DTD",
+      "metric_value": 41.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 43.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Flowers",
+      "metric_value": 52.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Food",
+      "metric_value": 54.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "MNIST",
+      "metric_value": 63.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 68.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Cars",
+      "metric_value": 21.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "SUN397",
+      "metric_value": 52.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Average",
+      "metric_value": 49.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 24.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 89.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 64.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "DTD",
+      "metric_value": 53.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 54.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Flowers",
+      "metric_value": 70.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Food",
+      "metric_value": 79.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "MNIST",
+      "metric_value": 66.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 79.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Cars",
+      "metric_value": 44.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "SUN397",
+      "metric_value": 61.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Average",
+      "metric_value": 62.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 32.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 87.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 61.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "DTD",
+      "metric_value": 55.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 68.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Flowers",
+      "metric_value": 69.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Food",
+      "metric_value": 76.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "MNIST",
+      "metric_value": 71.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 77.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Cars",
+      "metric_value": 42.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "SUN397",
+      "metric_value": 59.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Average",
+      "metric_value": 63.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 28.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 88.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 66.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "DTD",
+      "metric_value": 53.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 56.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Flowers",
+      "metric_value": 73.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Food",
+      "metric_value": 83.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "MNIST",
+      "metric_value": 56.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 82.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Cars",
+      "metric_value": 57.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "SUN397",
+      "metric_value": 62.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Average",
+      "metric_value": 64.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 30.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 89.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 73.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "DTD",
+      "metric_value": 58.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 69.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Flowers",
+      "metric_value": 79.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Food",
+      "metric_value": 88.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "MNIST",
+      "metric_value": 76.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Cars",
+      "metric_value": 65.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "SUN397",
+      "metric_value": 65.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Average",
+      "metric_value": 71.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 32.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 94.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 69.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "DTD",
+      "metric_value": 58.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 71.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Flowers",
+      "metric_value": 84.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Food",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "MNIST",
+      "metric_value": 70.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Cars",
+      "metric_value": 66.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "SUN397",
+      "metric_value": 65.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Average",
+      "metric_value": 71.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Aircraft",
+      "metric_value": 34.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Caltech101",
+      "metric_value": 95.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 73.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "DTD",
+      "metric_value": 60.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 77.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Flowers",
+      "metric_value": 81.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Food",
+      "metric_value": 86.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "MNIST",
+      "metric_value": 75.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Cars",
+      "metric_value": 66.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "SUN397",
+      "metric_value": 65.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Average",
+      "metric_value": 73.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Aircraft",
+      "metric_value": 37.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Caltech101",
+      "metric_value": 96.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 76.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "DTD",
+      "metric_value": 62.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 78.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Flowers",
+      "metric_value": 82.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Food",
+      "metric_value": 86.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "MNIST",
+      "metric_value": 76.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 90.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Cars",
+      "metric_value": 66.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "SUN397",
+      "metric_value": 74.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Average",
+      "metric_value": 74.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 22.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 58.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 17.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "DTD",
+      "metric_value": 32.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 28.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Flowers",
+      "metric_value": 66.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Food",
+      "metric_value": 46.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "MNIST",
+      "metric_value": 84.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 64.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Cars",
+      "metric_value": 31.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "SUN397",
+      "metric_value": 60.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF [38]",
+      "evaluation_task": "Average",
+      "metric_value": 46.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 22.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 89.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 59.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "DTD",
+      "metric_value": 57.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 57.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Flowers",
+      "metric_value": 79.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Food",
+      "metric_value": 78.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "MNIST",
+      "metric_value": 77.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 83.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Cars",
+      "metric_value": 60.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "SUN397",
+      "metric_value": 69.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LwF-VR [15]",
+      "evaluation_task": "Average",
+      "metric_value": 66.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 30.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 88.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 59.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "DTD",
+      "metric_value": 60.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 80.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Flowers",
+      "metric_value": 81.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Food",
+      "metric_value": 77.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "MNIST",
+      "metric_value": 94.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 83.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Cars",
+      "metric_value": 62.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "SUN397",
+      "metric_value": 70.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "WiSE-FT [85]",
+      "evaluation_task": "Average",
+      "metric_value": 71.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 26.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 63.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "DTD",
+      "metric_value": 55.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 60.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Flowers",
+      "metric_value": 82.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Food",
+      "metric_value": 82.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "MNIST",
+      "metric_value": 58.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 85.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Cars",
+      "metric_value": 66.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "SUN397",
+      "metric_value": 70.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "ZSCL [99]",
+      "evaluation_task": "Average",
+      "metric_value": 67.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 30.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 89.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 74.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "DTD",
+      "metric_value": 64.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 82.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Flowers",
+      "metric_value": 89.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Food",
+      "metric_value": 87.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "MNIST",
+      "metric_value": 89.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Cars",
+      "metric_value": 69.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "SUN397",
+      "metric_value": 72.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MoE-Adapter [93]",
+      "evaluation_task": "Average",
+      "metric_value": 76.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Aircraft",
+      "metric_value": 32.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Caltech101",
+      "metric_value": 95.1,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 70.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "DTD",
+      "metric_value": 63.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 81.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Flowers",
+      "metric_value": 95.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Food",
+      "metric_value": 88.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "MNIST",
+      "metric_value": 89.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 89.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Cars",
+      "metric_value": 72.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "SUN397",
+      "metric_value": 71.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RAIL-Primal [90]",
+      "evaluation_task": "Average",
+      "metric_value": 77.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Aircraft",
+      "metric_value": 31.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Caltech101",
+      "metric_value": 95.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 72.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "DTD",
+      "metric_value": 63.5,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 85.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Flowers",
+      "metric_value": 89.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Food",
+      "metric_value": 85.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "MNIST",
+      "metric_value": 94.7,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 93.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Cars",
+      "metric_value": 73.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "SUN397",
+      "metric_value": 73.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Average",
+      "metric_value": 78.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Aircraft",
+      "metric_value": 37.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Caltech101",
+      "metric_value": 96.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "CIFAR100",
+      "metric_value": 78.4,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "DTD",
+      "metric_value": 68.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "EuroSAT",
+      "metric_value": 92.6,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Flowers",
+      "metric_value": 92.3,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Food",
+      "metric_value": 86.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "MNIST",
+      "metric_value": 94.9,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "OxfordPet",
+      "metric_value": 93.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Cars",
+      "metric_value": 75.2,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "SUN397",
+      "metric_value": 73.0,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "CoDyRA",
+      "evaluation_task": "Average",
+      "metric_value": 80.8,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "Row 1, Column 1: 'CLIP' is a section header, not a method; entries under it are grouped under 'CLIP' section."
+  ]
+}

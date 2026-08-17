@@ -1,0 +1,2 @@
+rank: 8
+model: bert-base-cased

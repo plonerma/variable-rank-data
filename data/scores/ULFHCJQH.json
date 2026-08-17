@@ -1,0 +1,941 @@
+{
+  "entries": [
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.29,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.47,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 57.78,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.9,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.95,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.25,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 87.92,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 84.36,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "BERT-base",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": null,
+      "trained_parameters": 109500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 55.88,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 23.99,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 2.15,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 78.1,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 35.73,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 37.78,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 59.7,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 41.9,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -42.36,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 83.6,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 85.67,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 29.02,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 91.28,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.02,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.35,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 87.05,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 78.42,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -5.94,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 81.22,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 73.78,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 0,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 81.08,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 62.75,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 57.86,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 66.71,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 60.48,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -23.88,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 85.57,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 86.3,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 47.08,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 91.97,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.55,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.44,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 87.39,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 81.61,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "SVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -2.75,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 5.52,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 58.97,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 13.14,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 81.31,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 46.96,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 52.5,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 63.3,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 45.96,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -38.4,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 86.87,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 87.45,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 43.83,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 89.91,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 82.56,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.35,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 86.55,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 80.93,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -3.43,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 81.58,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 76.93,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 23.97,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 83.94,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 51.88,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 77.58,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 75.05,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 67.28,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -17.08,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.13,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.23,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 52.88,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 91.4,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.86,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.91,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 87.59,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 83.14,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "IWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -1.22,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 68,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 68.77,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 15.69,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 79.93,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 48.1,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 52.65,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 66.07,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 57.03,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -27.33,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.36,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 86.9,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 45.8,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 89.6,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 82.54,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.18,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 86.97,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 81.34,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -3.02,
+      "trained_parameters": 66500000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 81.22,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 84.24,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 27.22,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 83.37,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 71.12,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 64.1,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 75.18,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 69.49,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours)",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -14.87,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MRPC",
+      "metric_value": 89.4,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.47,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "COLA",
+      "metric_value": 55.01,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "SST-2",
+      "metric_value": 91.06,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.68,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QNLI",
+      "metric_value": 89.68,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "QQP",
+      "metric_value": 87.41,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Avg",
+      "metric_value": 83.53,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    },
+    {
+      "method": "FWSVD+ARS (ours) + fine-tuning",
+      "model": "BERT-base",
+      "evaluation_task": "Δ-Avg",
+      "metric_value": -0.83,
+      "trained_parameters": 65100000,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

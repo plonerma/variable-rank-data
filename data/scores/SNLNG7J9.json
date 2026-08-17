@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "method": "Full-FT",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 57.9,
+      "trained_parameters": 7000000000,
+      "average_rank": 12
+    },
+    {
+      "method": "Full-FT",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 82.9,
+      "trained_parameters": 7000000000,
+      "average_rank": 12
+    },
+    {
+      "method": "Full-FT",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 89.5,
+      "trained_parameters": 7000000000,
+      "average_rank": 12
+    },
+    {
+      "method": "Full-FT",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 88.7,
+      "trained_parameters": 7000000000,
+      "average_rank": 12
+    },
+    {
+      "method": "Full-FT",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.9,
+      "trained_parameters": 7000000000,
+      "average_rank": 12
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 52.8,
+      "trained_parameters": 9400000,
+      "average_rank": 12
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 80.4,
+      "trained_parameters": 9400000,
+      "average_rank": 12
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 87.3,
+      "trained_parameters": 9400000,
+      "average_rank": 12
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 84.5,
+      "trained_parameters": 9400000,
+      "average_rank": 12
+    },
+    {
+      "method": "Housbly-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.4,
+      "trained_parameters": 9400000,
+      "average_rank": 12
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 53.7,
+      "trained_parameters": 9500000,
+      "average_rank": 12
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 81.3,
+      "trained_parameters": 9500000,
+      "average_rank": 12
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 87.6,
+      "trained_parameters": 9500000,
+      "average_rank": 12
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 85.9,
+      "trained_parameters": 9500000,
+      "average_rank": 12
+    },
+    {
+      "method": "Learned-Adapter",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.6,
+      "trained_parameters": 9500000,
+      "average_rank": 12
+    },
+    {
+      "method": "SSP",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 54.6,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "SSP",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 81.5,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "SSP",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 87.4,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "SSP",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 86.4,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "SSP",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.1,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "LoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 55.1,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "LoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 81.8,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "LoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 87.7,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "LoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 86.3,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "LoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 90.9,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 55.6,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 82.2,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 87.5,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.0,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 91.2,
+      "trained_parameters": 10000000,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "HSM10K",
+      "metric_name": "accuracy",
+      "metric_value": 56.4,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "Q2SQL",
+      "metric_name": "accuracy",
+      "metric_value": 83.1,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "SQuAD",
+      "metric_name": "f1-em",
+      "metric_value": 88.9,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "BoolQ",
+      "metric_name": "accuracy",
+      "metric_value": 87.9,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    },
+    {
+      "method": "FanLoRA",
+      "model": "LLM-Assist 7B",
+      "evaluation_task": "COPA",
+      "metric_name": "accuracy",
+      "metric_value": 92.4,
+      "trained_parameters": 8600000,
+      "average_rank": 12
+    }
+  ],
+  "issues": []
+}

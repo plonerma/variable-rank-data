@@ -1,0 +1,113 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 10",
+      "metric_name": "accuracy",
+      "metric_value": 98.47,
+      "trained_parameters": 470000,
+      "average_rank": 3
+    },
+    {
+      "method": "LoRA",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 100",
+      "metric_name": "accuracy",
+      "metric_value": 91.47,
+      "trained_parameters": 470000,
+      "average_rank": 3
+    },
+    {
+      "method": "LoRA",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Tiny-Imagenet",
+      "metric_name": "accuracy",
+      "metric_value": 87.34,
+      "trained_parameters": 990000,
+      "average_rank": 6
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 10",
+      "metric_name": "accuracy",
+      "metric_value": 98.51,
+      "trained_parameters": 470000,
+      "average_rank": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 100",
+      "metric_name": "accuracy",
+      "metric_value": 91.44,
+      "trained_parameters": 450000,
+      "average_rank": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Tiny-Imagenet",
+      "metric_name": "accuracy",
+      "metric_value": 87.21,
+      "trained_parameters": 900000,
+      "average_rank": null
+    },
+    {
+      "method": "GeoLoRA, local",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 10",
+      "metric_name": "accuracy",
+      "metric_value": 98.55,
+      "trained_parameters": 470000,
+      "average_rank": null
+    },
+    {
+      "method": "GeoLoRA, local",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 100",
+      "metric_name": "accuracy",
+      "metric_value": 91.63,
+      "trained_parameters": 350000,
+      "average_rank": null
+    },
+    {
+      "method": "GeoLoRA, local",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Tiny-Imagenet",
+      "metric_name": "accuracy",
+      "metric_value": 88.09,
+      "trained_parameters": 920000,
+      "average_rank": null
+    },
+    {
+      "method": "GeoLoRA, global",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 10",
+      "metric_name": "accuracy",
+      "metric_value": 98.51,
+      "trained_parameters": 480000,
+      "average_rank": null
+    },
+    {
+      "method": "GeoLoRA, global",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Cifar 100",
+      "metric_name": "accuracy",
+      "metric_value": 91.62,
+      "trained_parameters": 470000,
+      "average_rank": null
+    },
+    {
+      "method": "GeoLoRA, global",
+      "model": "Vit-base-patch16-224",
+      "evaluation_task": "Tiny-Imagenet",
+      "metric_name": "accuracy",
+      "metric_value": 88.07,
+      "trained_parameters": 750000,
+      "average_rank": null
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID",
+      "metric_value": 69.936,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 64",
+      "metric_value": 0.445,
+      "average_rank": 4
+    },
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 192",
+      "metric_value": 3.068,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID",
+      "metric_value": 153.804,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 64",
+      "metric_value": 0.52,
+      "average_rank": 4
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 192",
+      "metric_value": 5.681,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID",
+      "metric_value": 89.765,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 64",
+      "metric_value": 0.58,
+      "average_rank": 4
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 192",
+      "metric_value": 4.982,
+      "average_rank": 4
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID",
+      "metric_value": 65.78,
+      "average_rank": 4
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 64",
+      "metric_value": 0.344,
+      "average_rank": 4
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "IU X-RAY",
+      "metric_name": "FID 192",
+      "metric_value": 2.412,
+      "average_rank": 4
+    }
+  ],
+  "issues": []
+}

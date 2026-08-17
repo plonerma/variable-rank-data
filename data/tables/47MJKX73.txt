@@ -2,5 +2,7 @@ fine-tuning task: PILE
 evaluation task: column header
 metric name: not given
 method: left most column
-model: LLaMA-7B
+
 trained_parameters: right most column (#Params; applies to the whole row)
+
+Use model LLaMA-7B for all entries.

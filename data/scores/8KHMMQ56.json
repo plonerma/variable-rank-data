@@ -1,0 +1,245 @@
+{
+  "entries": [
+    {
+      "method": "FP16 LoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 5.77,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "FP16 LoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 34.8,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "FP16 LoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 5.44,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "FP16 LoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 43.1,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 7.59,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 18.53,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 6.55,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "QLoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 20.85,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 7.45,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 21.76,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 6.46,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 30.17,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0237
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 7.14,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0949
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 25.85,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0949
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 6.4,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0949
+    },
+    {
+      "method": "LoftQ",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 34.69,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0949
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 7.33,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0214
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 23.42,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0214
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 6.46,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0214
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 34.69,
+      "trained_parameters": 64,
+      "average_rank": 64,
+      "trained_parameter_ratio": 0.0214
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 7.07,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0837
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-7B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 28.96,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0837
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "Wikitext",
+      "metric_name": "PPL",
+      "metric_value": 6.29,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0837
+    },
+    {
+      "method": "RA-LoRA",
+      "model": "LLaMA-2-13B",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 35.9,
+      "trained_parameters": 256,
+      "average_rank": 256,
+      "trained_parameter_ratio": 0.0837
+    }
+  ],
+  "issues": []
+}

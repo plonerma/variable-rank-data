@@ -1,0 +1,437 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "π₀",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 73.3,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "π₀",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 26.7,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "π₀",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "π₀",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 60.0,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "π₀",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 13.3,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "π₀",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 13.3,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "π₀",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 53.3,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "π₀",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 13.3,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "π₀",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 46.7,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "π₀",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 60.0,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "π₀",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 93.3,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "π₀",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "π₀",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 20.0,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "π₀",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 6.7,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "π₀",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 40.0,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "π₀",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 60.0,
+      "trained_parameter_ratio": 0.091,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "π₀",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "π₀",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "π₀",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "π₀",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "π₀",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "π₀",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "π₀",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 93.3,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "π₀",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 0.092,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 40.0,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 20.0,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 93.3,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "SmolVLA",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 33.3,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "SmolVLA",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 46.7,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "SmolVLA",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (top-1)",
+      "model": "SmolVLA",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 73.3,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "SmolVLA",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 60.0,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "SmolVLA",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 80.0,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "SmolVLA",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 100.0,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-MoE (weighted sum)",
+      "model": "SmolVLA",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 66.7,
+      "trained_parameter_ratio": 0.172,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 6.7,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 0.0,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 40.0,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "SmolVLA",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 20.0,
+      "trained_parameter_ratio": 0.17,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "SmolVLA",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 73.3,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "SmolVLA",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "SmolVLA",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 100.0,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full FT",
+      "model": "SmolVLA",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "SmolVLA",
+      "evaluation_task": "Open",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 0.171,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "SmolVLA",
+      "evaluation_task": "Pour",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 86.7,
+      "trained_parameter_ratio": 0.171,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "SmolVLA",
+      "evaluation_task": "Press",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 100.0,
+      "trained_parameter_ratio": 0.171,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA-SP",
+      "model": "SmolVLA",
+      "evaluation_task": "Pick-Place",
+      "metric_name": "Multi-task Success Rate (%)",
+      "metric_value": 93.3,
+      "trained_parameter_ratio": 0.171,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

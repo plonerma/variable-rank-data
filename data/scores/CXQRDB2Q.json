@@ -1,0 +1,125 @@
+{
+  "entries": [
+    {
+      "method": "Full-FT",
+      "model": "Llama2 7b",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 55.65,
+      "trained_parameters": 6600000000
+    },
+    {
+      "method": "Full-FT",
+      "model": "Llama2 7b",
+      "evaluation_task": "DART",
+      "metric_name": "BLEU",
+      "metric_value": 59.68,
+      "trained_parameters": 6600000000
+    },
+    {
+      "method": "Full-FT",
+      "model": "Llama2 7b",
+      "evaluation_task": "Dialogsum",
+      "metric_name": "ROUGE",
+      "metric_value": 40.77,
+      "trained_parameters": 6600000000
+    },
+    {
+      "method": "Full-FT",
+      "model": "Llama2 7b",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 31.16,
+      "trained_parameters": 6600000000
+    },
+    {
+      "method": "Full-FT",
+      "model": "Llama2 7b",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 46.82,
+      "trained_parameters": 6600000000
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama2 7b",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 56.38,
+      "trained_parameters": 130000000
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama2 7b",
+      "evaluation_task": "DART",
+      "metric_name": "BLEU",
+      "metric_value": 58.51,
+      "trained_parameters": 130000000
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama2 7b",
+      "evaluation_task": "Dialogsum",
+      "metric_name": "ROUGE",
+      "metric_value": 41.03,
+      "trained_parameters": 130000000
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama2 7b",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 34.04,
+      "trained_parameters": 130000000
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama2 7b",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 47.49,
+      "trained_parameters": 130000000
+    },
+    {
+      "method": "LoRA-drop (ours)",
+      "model": "Llama2 7b",
+      "evaluation_task": "E2E",
+      "metric_name": "BLEU",
+      "metric_value": 57.06,
+      "trained_parameters": 90000000
+    },
+    {
+      "method": "LoRA-drop (ours)",
+      "model": "Llama2 7b",
+      "evaluation_task": "DART",
+      "metric_name": "BLEU",
+      "metric_value": 58.82,
+      "trained_parameters": 90000000
+    },
+    {
+      "method": "LoRA-drop (ours)",
+      "model": "Llama2 7b",
+      "evaluation_task": "Dialogsum",
+      "metric_name": "ROUGE",
+      "metric_value": 40.68,
+      "trained_parameters": 90000000
+    },
+    {
+      "method": "LoRA-drop (ours)",
+      "model": "Llama2 7b",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Acc",
+      "metric_value": 34.5,
+      "trained_parameters": 90000000
+    },
+    {
+      "method": "LoRA-drop (ours)",
+      "model": "Llama2 7b",
+      "evaluation_task": "Avg.",
+      "metric_name": null,
+      "metric_value": 47.77,
+      "trained_parameters": 90000000
+    }
+  ],
+  "issues": []
+}

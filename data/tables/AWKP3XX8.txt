@@ -6,6 +6,7 @@ evaluation task: columns
 
 finetuning task: columns
 
+Second column contains the number of trained parameters (convert to integer).
 
 Only for MNLI:
 Extract two values and append a suffix to evaluation_task (one entry each with evaluation_task: MNLI-m, MNLI-mm).

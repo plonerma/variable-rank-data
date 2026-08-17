@@ -1,0 +1,205 @@
+{
+  "entries": [
+    {
+      "method": "FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.0,
+      "trained_parameters": 100,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FT",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 85.4,
+      "trained_parameters": 100,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.4,
+      "trained_parameters": 8,
+      "trained_parameter_ratio": 0.08,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 82.5,
+      "trained_parameters": 8,
+      "trained_parameter_ratio": 0.08,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.6,
+      "trained_parameters": 8,
+      "trained_parameter_ratio": 0.08,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 83.2,
+      "trained_parameters": 8,
+      "trained_parameter_ratio": 0.08,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 87.2,
+      "trained_parameters": 8,
+      "trained_parameter_ratio": 0.08,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 83.5,
+      "trained_parameters": 8,
+      "trained_parameter_ratio": 0.08,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.8,
+      "trained_parameters": 16,
+      "trained_parameter_ratio": 0.16,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 83.3,
+      "trained_parameters": 16,
+      "trained_parameter_ratio": 0.16,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.6,
+      "trained_parameters": 16,
+      "trained_parameter_ratio": 0.16,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 83.0,
+      "trained_parameters": 16,
+      "trained_parameter_ratio": 0.16,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 87.4,
+      "trained_parameters": 16,
+      "trained_parameter_ratio": 0.16,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 83.7,
+      "trained_parameters": 16,
+      "trained_parameter_ratio": 0.16,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 85.8,
+      "trained_parameters": 32,
+      "trained_parameter_ratio": 0.32,
+      "finetuning_task": null
+    },
+    {
+      "method": "DyLoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 82.8,
+      "trained_parameters": 32,
+      "trained_parameter_ratio": 0.32,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.2,
+      "trained_parameters": 32,
+      "trained_parameter_ratio": 0.32,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 83.6,
+      "trained_parameters": 32,
+      "trained_parameter_ratio": 0.32,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv1.1",
+      "metric_name": null,
+      "metric_value": 86.5,
+      "trained_parameters": 32,
+      "trained_parameter_ratio": 0.32,
+      "finetuning_task": null
+    },
+    {
+      "method": "La-LoRA",
+      "model": "DeBERTaV3-base",
+      "evaluation_task": "SQuADv2.0",
+      "metric_name": null,
+      "metric_value": 84.1,
+      "trained_parameters": 32,
+      "trained_parameter_ratio": 0.32,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

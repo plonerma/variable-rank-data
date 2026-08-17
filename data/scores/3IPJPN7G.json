@@ -1,0 +1,117 @@
+{
+  "entries": [
+    {
+      "method": "PreTrain",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 51.34,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "Full FT",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 73.31,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 64.43,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 65.12,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 65.91,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "SparseGPT",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 66.35,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "LLM-Pruner",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 69.82,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "PrunedLoRA (init r = 128)",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 69.21,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "PrunedLoRA (init r = 256)",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 70.43,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    },
+    {
+      "method": "PrunedLoRA (init r = 512)",
+      "model": "Llama-3-8B",
+      "evaluation_task": "GSM8K",
+      "metric_name": null,
+      "metric_value": 73.38,
+      "trained_parameters": null,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetaMathQA"
+    }
+  ],
+  "issues": [
+    "Column header 'GSM8K ↑' indicates the metric is accuracy (as per common convention for GSM8K), but metric_name is not explicitly provided in any cell. Assigning 'accuracy' as the canonical metric name for all entries."
+  ]
+}

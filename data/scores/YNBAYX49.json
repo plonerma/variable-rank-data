@@ -1,0 +1,92 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID",
+      "metric_value": 75.006
+    },
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 64",
+      "metric_value": 6.078
+    },
+    {
+      "method": "LoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 192",
+      "metric_value": 16.762
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID",
+      "metric_value": 80.106
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 64",
+      "metric_value": 9.878
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 192",
+      "metric_value": 37.627
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID",
+      "metric_value": 93.083
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 64",
+      "metric_value": 5.002
+    },
+    {
+      "method": "DyLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 192",
+      "metric_value": 14.376
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID",
+      "metric_value": 75.586
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 64",
+      "metric_value": 6.001
+    },
+    {
+      "method": "SeLoRA",
+      "model": "runwayml/stable-diffusion-v1-5",
+      "evaluation_task": "Patch-GastricADC22",
+      "metric_name": "FID 192",
+      "metric_value": 16.487
+    }
+  ],
+  "issues": [
+    "average_rank not provided in table; omitted from entries.",
+    "trained_parameters not provided in table; omitted from entries."
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "entries": [
+    {
+      "method": "Full QAT",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Accuracy",
+      "metric_value": 22.52,
+      "trained_parameters": 100,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "QA-LoRA (64)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Accuracy",
+      "metric_value": 21.3,
+      "trained_parameters": 100,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "QA-LoRA (256)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Accuracy",
+      "metric_value": 21.38,
+      "trained_parameters": 100,
+      "average_rank": 256,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RA-LoRA (64)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Accuracy",
+      "metric_value": 21.38,
+      "trained_parameters": 100,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RA-LoRA (256)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Accuracy",
+      "metric_value": 23.2,
+      "trained_parameters": 100,
+      "average_rank": 256,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full QAT",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Speed",
+      "metric_value": 1.5,
+      "trained_parameters": 100,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "QA-LoRA (64)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Speed",
+      "metric_value": 3.13,
+      "trained_parameters": 100,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "QA-LoRA (256)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Speed",
+      "metric_value": 2.57,
+      "trained_parameters": 100,
+      "average_rank": 256,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RA-LoRA (64)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Speed",
+      "metric_value": 3.13,
+      "trained_parameters": 100,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RA-LoRA (256)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Speed",
+      "metric_value": 2.6,
+      "trained_parameters": 100,
+      "average_rank": 256,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Full QAT",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Memory",
+      "metric_value": 67146,
+      "trained_parameters": 100,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "QA-LoRA (64)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Memory",
+      "metric_value": 22302,
+      "trained_parameters": 100,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "QA-LoRA (256)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Memory",
+      "metric_value": 28528,
+      "trained_parameters": 100,
+      "average_rank": 256,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RA-LoRA (64)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Memory",
+      "metric_value": 22176,
+      "trained_parameters": 100,
+      "average_rank": 64,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RA-LoRA (256)",
+      "evaluation_task": "GSM8K",
+      "metric_name": "Fine-Tuning Memory",
+      "metric_value": 28052,
+      "trained_parameters": 100,
+      "average_rank": 256,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "The 'Trainable Params (%)' column header indicates a percentage, but the values are absolute numbers (e.g., 100, 1.31). This is inconsistent with the header's implication. The values should be interpreted as absolute parameter counts, not percentages, since the column header is misleading. The 'Trainable Params (%)' column is treated as absolute parameter counts for all entries."
+  ]
+}

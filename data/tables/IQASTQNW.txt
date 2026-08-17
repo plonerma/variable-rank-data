@@ -1,0 +1,7 @@
+model: Llama-2-7B-Base
+
+finetuning tasks: MetamathQA (for GSM8k), Code-FeedBack (for HumanEval), and WizardLM (for MTBench)
+
+
+Method fuil: trained parameter ratio is 1.
+For all other methods, the average rank is 8 (unless it is stated using r_ref in the method name; last two rows).

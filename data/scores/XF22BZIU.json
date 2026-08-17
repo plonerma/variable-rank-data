@@ -1,0 +1,403 @@
+{
+  "entries": [
+    {
+      "method": "Full",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 5.88,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "Full",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 73.69,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "Full",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 51.63,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.15,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 67.78,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "LoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 43.09,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "RSLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.18,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "RSLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 68.36,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "RSLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 45.78,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.24,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 69.17,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "DoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 43.7,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "LoRA+",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.35,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "LoRA+",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 71.29,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "LoRA+",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 44.51,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.13,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 68.54,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "OLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 43.29,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.08,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 68.56,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "PiSSA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 44.1,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 5.99,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 71.39,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "LoRA-GA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 43.29,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.19,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 70.63,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "AdaLoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 41.46,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.34,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 72.91,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 48.98,
+      "trained_parameters": null,
+      "average_rank": 8,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 6.21,
+      "trained_parameters": null,
+      "average_rank": 32,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 75.59,
+      "trained_parameters": null,
+      "average_rank": 32,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 51.22,
+      "trained_parameters": null,
+      "average_rank": 32,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "MTBench",
+      "metric_name": "accuracy",
+      "metric_value": 5.82,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "WizardLM"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "GSM8k",
+      "metric_name": "accuracy",
+      "metric_value": 75.74,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "MetamathQA"
+    },
+    {
+      "method": "GoRA",
+      "model": "Llama-3.1-8B-Base",
+      "evaluation_task": "HumanEval",
+      "metric_name": "accuracy",
+      "metric_value": 52.03,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": "Code-FeedBack"
+    }
+  ],
+  "issues": [
+    "Metric names not specified in column headers; assumed to be 'accuracy' based on context and common usage in benchmarks like MTBench, GSM8k, and HumanEval."
+  ]
+}

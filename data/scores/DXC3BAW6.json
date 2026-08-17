@@ -1,0 +1,725 @@
+{
+  "entries": [
+    {
+      "method": "FFT",
+      "evaluation_task": "RTE",
+      "metric_value": 71.12,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "MRPC",
+      "metric_value": 85.74,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "STS-B",
+      "metric_value": 89.0,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "CoLA",
+      "metric_value": 59.32,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.57,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.5,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "QQP",
+      "metric_value": 91.52,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.43,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "FFT",
+      "evaluation_task": "AVG",
+      "metric_value": 83.15,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 1.0,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "RTE",
+      "metric_value": 70.54,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "MRPC",
+      "metric_value": 85.93,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.76,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "CoLA",
+      "metric_value": 58.88,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "SST-2",
+      "metric_value": 91.93,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "QNLI",
+      "metric_value": 90.76,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "QQP",
+      "metric_value": 89.12,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "MNLI",
+      "metric_value": 82.78,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "Prefix",
+      "evaluation_task": "AVG",
+      "metric_value": 82.33,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0017,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "RTE",
+      "metric_value": 65.85,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.46,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.73,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "CoLA",
+      "metric_value": 57.58,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.06,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "QNLI",
+      "metric_value": 90.62,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "QQP",
+      "metric_value": 89.41,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.0,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "evaluation_task": "AVG",
+      "metric_value": 81.46,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "RTE",
+      "metric_value": 68.01,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.75,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.61,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "CoLA",
+      "metric_value": 59.73,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "SST-2",
+      "metric_value": 91.93,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.06,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "QQP",
+      "metric_value": 90.52,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.18,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "Serial",
+      "evaluation_task": "AVG",
+      "metric_value": 82.35,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "RTE",
+      "metric_value": 70.11,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "MRPC",
+      "metric_value": 86.86,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "STS-B",
+      "metric_value": 89.12,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "CoLA",
+      "metric_value": 59.11,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.06,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.52,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "QQP",
+      "metric_value": 90.22,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.25,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "AdaMix",
+      "evaluation_task": "AVG",
+      "metric_value": 82.91,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0081,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "RTE",
+      "metric_value": 67.07,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "MRPC",
+      "metric_value": 84.22,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.84,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "CoLA",
+      "metric_value": 60.13,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.52,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.09,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "QQP",
+      "metric_value": 90.69,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.28,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "UniPELT",
+      "evaluation_task": "AVG",
+      "metric_value": 82.35,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0125,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "RTE",
+      "metric_value": 68.52,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "MRPC",
+      "metric_value": 86.52,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.9,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "CoLA",
+      "metric_value": 58.72,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.13,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "QNLI",
+      "metric_value": 90.83,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "QQP",
+      "metric_value": 90.74,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "MNLI",
+      "metric_value": 73.93,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "Parallel",
+      "evaluation_task": "AVG",
+      "metric_value": 81.29,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0646,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "RTE",
+      "metric_value": 69.1,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.16,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "STS-B",
+      "metric_value": 89.01,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "CoLA",
+      "metric_value": 47.87,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "SST-2",
+      "metric_value": 83.94,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "QNLI",
+      "metric_value": 90.85,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "QQP",
+      "metric_value": 90.76,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "MNLI",
+      "metric_value": 83.31,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "MAM",
+      "evaluation_task": "AVG",
+      "metric_value": 80.25,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.0697,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "RTE",
+      "metric_value": 72.35,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "MRPC",
+      "metric_value": 87.45,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "STS-B",
+      "metric_value": 89.17,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "CoLA",
+      "metric_value": 60.92,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "SST-2",
+      "metric_value": 92.22,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.12,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "QQP",
+      "metric_value": 90.64,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "MNLI",
+      "metric_value": 84.01,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "AutoPEFT",
+      "evaluation_task": "AVG",
+      "metric_value": 83.49,
+      "trained_parameters": null,
+      "trained_parameter_ratio": 0.014,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "RTE",
+      "metric_value": 70.76,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "MRPC",
+      "metric_value": 88.97,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "STS-B",
+      "metric_value": 88.28,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "CoLA",
+      "metric_value": 61.12,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "SST-2",
+      "metric_value": 93.23,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "QNLI",
+      "metric_value": 91.21,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "QQP",
+      "metric_value": 88.91,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "MNLI",
+      "metric_value": 82.0,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoNAS",
+      "evaluation_task": "AVG",
+      "metric_value": 83.06,
+      "trained_parameters": 8000000000,
+      "trained_parameter_ratio": 0.0027,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

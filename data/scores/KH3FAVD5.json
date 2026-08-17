@@ -1,0 +1,327 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-1",
+      "metric_value": 0.4132,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-2",
+      "metric_value": 0.1882,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-L",
+      "metric_value": 0.2858,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BLEU",
+      "metric_value": 0.1578,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.8737,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-1",
+      "metric_value": 0.4233,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-2",
+      "metric_value": 0.1974,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-L",
+      "metric_value": 0.2958,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BLEU",
+      "metric_value": 0.1657,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.8761,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-1",
+      "metric_value": 0.4245,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-2",
+      "metric_value": 0.1985,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-L",
+      "metric_value": 0.2970,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BLEU",
+      "metric_value": 0.1681,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.8815,
+      "average_rank": 256
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-1",
+      "metric_value": 0.4155,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-2",
+      "metric_value": 0.1909,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "R-L",
+      "metric_value": 0.2874,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BLEU",
+      "metric_value": 0.1561,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "CNN/DM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.8741,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-1",
+      "metric_value": 0.3748,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-2",
+      "metric_value": 0.1500,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-L",
+      "metric_value": 0.3020,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BLEU",
+      "metric_value": 0.0897,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.8991,
+      "average_rank": 16
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-1",
+      "metric_value": 0.4002,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-2",
+      "metric_value": 0.1737,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-L",
+      "metric_value": 0.3254,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BLEU",
+      "metric_value": 0.1110,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.9036,
+      "average_rank": 128
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-1",
+      "metric_value": 0.4041,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-2",
+      "metric_value": 0.1784,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-L",
+      "metric_value": 0.3295,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BLEU",
+      "metric_value": 0.1157,
+      "average_rank": 256
+    },
+    {
+      "method": "LoRA",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.9042,
+      "average_rank": 256
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-1",
+      "metric_value": 0.3820,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-2",
+      "metric_value": 0.1583,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "R-L",
+      "metric_value": 0.3096,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BLEU",
+      "metric_value": 0.0962,
+      "average_rank": 16
+    },
+    {
+      "method": "ours",
+      "model": "BART-base",
+      "evaluation_task": "XSUM",
+      "metric_name": "BERTScore (F1)",
+      "metric_value": 0.9006,
+      "average_rank": 16
+    }
+  ],
+  "issues": [
+    "Metric names 'R-1', 'R-2', 'R-L' are not normalized; they should be replaced with 'ROUGE-1', 'ROUGE-2', 'ROUGE-L' respectively in the output."
+  ]
+}

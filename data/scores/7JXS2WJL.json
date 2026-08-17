@@ -1,0 +1,165 @@
+{
+  "entries": [
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 70.25,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "PIQA",
+      "metric_value": 78.21,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "HellaS",
+      "metric_value": 72.37,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "WinoG",
+      "metric_value": 70.18,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 75.68,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 43.49,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "OBQA",
+      "metric_value": 41.3,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LoRA",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "Avg",
+      "metric_value": 64.5,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "BoolQ",
+      "metric_value": 73.77,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "PIQA",
+      "metric_value": 79.98,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "HellaS",
+      "metric_value": 74.56,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "WinoG",
+      "metric_value": 72.33,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "ARC-e",
+      "metric_value": 73.82,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "ARC-c",
+      "metric_value": 44.31,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "OBQA",
+      "metric_value": 42.8,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "RankAdaptor",
+      "model": "LLaMA3-8B",
+      "evaluation_task": "Avg",
+      "metric_value": 65.93,
+      "trained_parameters": null,
+      "average_rank": null,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,967 @@
+{
+  "entries": [
+    {
+      "method": "BLIP-2",
+      "model": "Vicuna-13B",
+      "evaluation_task": "MME",
+      "metric_value": 1293.8,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BLIP-2",
+      "model": "Vicuna-13B",
+      "evaluation_task": "MMB",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BLIP-2",
+      "model": "Vicuna-13B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 42.5,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BLIP-2",
+      "model": "Vicuna-13B",
+      "evaluation_task": "POPE",
+      "metric_value": 85.3,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BLIP-2",
+      "model": "Vicuna-13B",
+      "evaluation_task": "GQA",
+      "metric_value": 41.0,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "BLIP-2",
+      "model": "Vicuna-13B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 61.0,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MiniGPT-4",
+      "model": "Vicuna-7B",
+      "evaluation_task": "MME",
+      "metric_value": 581.7,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MiniGPT-4",
+      "model": "Vicuna-7B",
+      "evaluation_task": "MMB",
+      "metric_value": 23.0,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MiniGPT-4",
+      "model": "Vicuna-7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MiniGPT-4",
+      "model": "Vicuna-7B",
+      "evaluation_task": "POPE",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MiniGPT-4",
+      "model": "Vicuna-7B",
+      "evaluation_task": "GQA",
+      "metric_value": 32.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MiniGPT-4",
+      "model": "Vicuna-7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-7B",
+      "evaluation_task": "MME",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-7B",
+      "evaluation_task": "MMB",
+      "metric_value": 36.0,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 50.1,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-7B",
+      "evaluation_task": "POPE",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-7B",
+      "evaluation_task": "GQA",
+      "metric_value": 49.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 60.5,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-13B",
+      "evaluation_task": "MME",
+      "metric_value": 1212.8,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-13B",
+      "evaluation_task": "MMB",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-13B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 50.7,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-13B",
+      "evaluation_task": "POPE",
+      "metric_value": 78.9,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-13B",
+      "evaluation_task": "GQA",
+      "metric_value": 49.5,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "InstructBLIP",
+      "model": "Vicuna-13B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 63.1,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-9B",
+      "model": "LLaMA-7B",
+      "evaluation_task": "MME",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-9B",
+      "model": "LLaMA-7B",
+      "evaluation_task": "MMB",
+      "metric_value": 48.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-9B",
+      "model": "LLaMA-7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 25.9,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-9B",
+      "model": "LLaMA-7B",
+      "evaluation_task": "POPE",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-9B",
+      "model": "LLaMA-7B",
+      "evaluation_task": "GQA",
+      "metric_value": 38.4,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-9B",
+      "model": "LLaMA-7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-80B",
+      "model": "LLaMA-65B",
+      "evaluation_task": "MME",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-80B",
+      "model": "LLaMA-65B",
+      "evaluation_task": "MMB",
+      "metric_value": 54.5,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-80B",
+      "model": "LLaMA-65B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 30.9,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-80B",
+      "model": "LLaMA-65B",
+      "evaluation_task": "POPE",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-80B",
+      "model": "LLaMA-65B",
+      "evaluation_task": "GQA",
+      "metric_value": 45.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "IDEFICS-80B",
+      "model": "LLaMA-65B",
+      "evaluation_task": "SQA^1",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Qwen-VL",
+      "model": "Qwen-7B",
+      "evaluation_task": "MME",
+      "metric_value": 1487.6,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Qwen-VL",
+      "model": "Qwen-7B",
+      "evaluation_task": "MMB",
+      "metric_value": 38.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Qwen-VL",
+      "model": "Qwen-7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 63.8,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Qwen-VL",
+      "model": "Qwen-7B",
+      "evaluation_task": "POPE",
+      "metric_value": null,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Qwen-VL",
+      "model": "Qwen-7B",
+      "evaluation_task": "GQA",
+      "metric_value": 59.3,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "Qwen-VL",
+      "model": "Qwen-7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 67.1,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LLaVA-1.5",
+      "model": "Vicuna-7B",
+      "evaluation_task": "MME",
+      "metric_value": 1510.7,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LLaVA-1.5",
+      "model": "Vicuna-7B",
+      "evaluation_task": "MMB",
+      "metric_value": 64.3,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LLaVA-1.5",
+      "model": "Vicuna-7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 58.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LLaVA-1.5",
+      "model": "Vicuna-7B",
+      "evaluation_task": "POPE",
+      "metric_value": 85.9,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LLaVA-1.5",
+      "model": "Vicuna-7B",
+      "evaluation_task": "GQA",
+      "metric_value": 62.0,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "LLaVA-1.5",
+      "model": "Vicuna-7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 66.8,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ Full",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MME",
+      "metric_value": 1176.85,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ Full",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MMB",
+      "metric_value": 53.35,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ Full",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 40.36,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ Full",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "POPE",
+      "metric_value": 83.29,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ Full",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "GQA",
+      "metric_value": 56.51,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ Full",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 55.08,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ LoRA",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MME",
+      "metric_value": 1147.00,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ LoRA",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MMB",
+      "metric_value": 46.56,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ LoRA",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 40.28,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ LoRA",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "POPE",
+      "metric_value": 83.76,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ LoRA",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "GQA",
+      "metric_value": 55.28,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 1.7B w/ LoRA",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 51.95,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MME",
+      "metric_value": 1200.88,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MMB",
+      "metric_value": 48.45,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 40.75,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "POPE",
+      "metric_value": 83.97,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "GQA",
+      "metric_value": 55.64,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 51.78,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MME",
+      "metric_value": 1200.91,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "MMB",
+      "metric_value": 47.77,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 40.98,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "POPE",
+      "metric_value": 84.51,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "GQA",
+      "metric_value": 55.33,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 1.4B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 52.2,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ Full",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MME",
+      "metric_value": 1296.54,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ Full",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MMB",
+      "metric_value": 59.71,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ Full",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 48.58,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ Full",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "POPE",
+      "metric_value": 84.51,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ Full",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "GQA",
+      "metric_value": 59.03,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ Full",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 57.93,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ LoRA",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MME",
+      "metric_value": 1256.38,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ LoRA",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MMB",
+      "metric_value": 57.22,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ LoRA",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 46.58,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ LoRA",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "POPE",
+      "metric_value": 84.14,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ LoRA",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "GQA",
+      "metric_value": 58.13,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "MobileVLM 3B w/ LoRA",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 56.85,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MME",
+      "metric_value": 1261.41,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MMB",
+      "metric_value": 57.99,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 46.91,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "POPE",
+      "metric_value": 84.66,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "GQA",
+      "metric_value": 58.58,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Fine-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 57.39,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MME",
+      "metric_value": 1298.83,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "MMB",
+      "metric_value": 58.93,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "VQA^T",
+      "metric_value": 47.14,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "POPE",
+      "metric_value": 83.77,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "GQA",
+      "metric_value": 58.37,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    },
+    {
+      "method": "HyDRA(Coarse-grained)",
+      "model": "MobileLLaMA 2.7B",
+      "evaluation_task": "SQA^1",
+      "metric_value": 56.94,
+      "trained_parameters": null,
+      "average_rank": 128,
+      "trained_parameter_ratio": null,
+      "finetuning_task": null
+    }
+  ],
+  "issues": [
+    "The 'Res.', 'PT', and 'IT' columns are not used for metric extraction; they are metadata about training data size and model resolution, which are not metrics themselves. These fields are omitted from the output as per specification."
+  ]
+}
