@@ -40,9 +40,12 @@ Each entry has the following fields:
 | Confidence intervals (e.g., "0.85 ± 0.02") | Extract main value only; no flagging needed |
 | Ranges (e.g., "0.75-0.90") | Assign `null`; flag issue |
 | formatted numbers (e.g., "123.456k") | extract as integer |
+| formatted numbers (e.g., "1.1E-3") | extract as float (in this case 0.0011) |
+| percentages (either specified in value or column head; e.g., "0.3%" or "3.0E-1 %") | extract as float (in this case 0.003) |
 | averages (e.g., "average", "avg.") | do not create an entry |
 | multiple values (e.g., "0.82, 0.85") | create separate entries with same row-level metadata, different metric_value or evaluation_task; if meaning is not explicitly given, flag issue |
 | joining two columns (parameters & metrics) | do not add parameters as a separate entry; instead, add to trained_parameters field for the respective metric values |
+| parameter ratio given as percentage (%) | divide the values by 100 to derive the ratio |
 
 
 ## VISUAL AMBIGUITIES
@@ -72,7 +75,7 @@ If metric names are in column headers (e.g., 'sst-2 (acc.)'), extract 'acc.' and
 
 Flag issues including: missing critical fields, unintelligible or range data, unclear field locations, alternatives without explicit context, inconsistent data types, and missing additional info.
 
-Issues should include table cell position (row index, column index) when possible.
+Issues should include table cell position (row index, column index) when possible. If multiple cells are affected, only include an example. Do not repeat the same issue multiple times. Do not specify all rows exhaustively.
 
 
 ## OUTPUT FORMAT

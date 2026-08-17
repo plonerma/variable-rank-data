@@ -46,7 +46,7 @@ for image_path in Path("./data/tables").glob("*.png"):
     image = Image.open(image_path).convert("RGB")
 
 
-    with open(Path("./extractions") / f"{input_id}.txt") as f:
+    with open(Path("./data/tables") / f"{input_id}.txt") as f:
         info = f.read()
 
     prompt = PROMPT_TEMPLATE.format(question=PROMPT.format(info=info, field_descriptions=field_description, field_names=field_names))

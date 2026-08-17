@@ -185,14 +185,12 @@ def run(debug: bool = False):
             left, bottom, right, top = pos["rects"][0]
 
             clip = pymupdf.Rect(left, page.rect.height - top, right, page.rect.height - bottom)
-            pixmap = page.get_pixmap(dpi=150, clip=clip)
+            pixmap = page.get_pixmap(dpi=600, clip=clip)
             annotation_key = annotation["key"]
             pixmap.save(f"data/tables/{annotation_key}.png")
 
             with open(f"data/tables/{annotation_key}.txt", "w") as f:
                 f.write(annotation["annotationComment"])
-            
-            break
 
         del paperData["pdf"]
 
